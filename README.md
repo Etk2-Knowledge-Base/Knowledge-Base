@@ -252,7 +252,7 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 
 ### 2.1.4 Guardian Build Purposes
 * **Stances:** Defensive is required for soloing of-level content, tanking instances, and bosses. Offensive offers the highest DPS but is only recommended for soloing content you have out-leveled by 30+ levels.
-* **Efficiency:** While high DPS, guardians are the worst DPS in the game without a healer. They offer no specific benefit over other classes for solo play.
+* **Efficiency:** While high DPS, guardians are among the worst DPS in the game without a healer. They offer no specific benefit over other classes for solo play.
 
 
 ## 2.2 Ranger
