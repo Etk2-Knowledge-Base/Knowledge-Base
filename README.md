@@ -947,9 +947,8 @@ Buff pickups include:
 - **Cogwheel** — Revives a sidelined teammate  
 - **Boots** — Dash when you swing  
 - **Spear** — Hit 2 tiles ahead  
-- **Gloves** — Push 2 tiles  
-- **Sword** — Push corners  
-
+- **Gloves** — Push 2 tiles 
+- **Scythe** — Flank  
 ---
 
 ### Pillowfight
