@@ -52,8 +52,8 @@ You can select colors for different kinds of chats and toggle the following:
 | :--- | :--- | :--- |
 | **Lock Chat** | Green | You can resize or move the chat window. |
 | | Red | Chat cannot be resized or moved. |
-| **Curse Filter** | Green | All text is unfiltered. |
-| | Red | Offensive words are replaced by stars. |
+| **Curse Filter** | Green | Offensive words are replaced by stars. |
+| | Red | All text is unfiltered. |
 | **Chat Bubbles** | Green | Text appears in bubbles over player heads. |
 | | Red | Text is only shown in the chat window. |
 
