@@ -769,8 +769,8 @@ To begin mining ores, you must buy a pickaxe from the blacksmith.
 | :--- | :--- | :--- |
 | **T1** | Small Iron | Rooms 1–7 in Crypts |
 | **T2** | Large Iron | Fox, Insect, Rooms 8–11 in Crypts |
-| **T3** | ? | Boar, Rooms 12–15 in Crypts |
-| **T4** | ? | Rooms 16+ in Crypts |
+| **T3** | Dense Iron | Boar, Rooms 12–15 in Crypts |
+| **T4** | Rich Iron | Rooms 16+ in Crypts |
 
 You must smelt ores at the blacksmith into bars before crafting items.  
 Smithing is performed at the blacksmith.
@@ -819,8 +819,8 @@ To begin gemcutting, you must obtain gems.
 | **T1** | Jades | Fox, Insect, Boar Rooms 1–3, Crypts Rooms 9–13 |
 | **T2** | Emeralds | Boar Rooms 4–6, Bear Cave, Crypts Rooms 14–19 |
 | **T3** | Rubies | Wolf Cave, Crypt Room 20 |
-| **T4** | Sapphires | Swamp |
-
+| **T3** | Sapphires | Swamp |
+| **T4** | Quartz | Swamp |
 ---
 
 ## 3.4 Woodcutting / Carpentry (TBD/A)
