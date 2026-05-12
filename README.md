@@ -342,7 +342,7 @@ Wizards use staff or sword.
 They have the largest pool of AoEs of all classes.  
 Equally, the squishiest class by far.  
 Wizard is not weak at all, but it does have the highest skill cap of all classes to perform well on.  
-Elementalist build is currently solid, enchanter build is lacking severely and not worth playing.
+Elementalist(classic wizard) build is currently solid, enchanter(Melee/battlemage) build is lacking severely and not worth playing.
 
 ---
 
