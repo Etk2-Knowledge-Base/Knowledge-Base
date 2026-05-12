@@ -978,5 +978,8 @@ https://etk2tnlcalc.netlify.app/
 
 If more depth is needed, I may contact Nova to pitch in and combine resources.
 ---
+---
 
-_Last updated: 5/12/2026 — ETK2 Alpha Knowledge Base v1.0_
+**Last updated:** 5/12/2026  
+**Version:** ETK2 Alpha Knowledge Base v1.0  
+**Authors:** Adv / .\_a\_o_i\_.7
