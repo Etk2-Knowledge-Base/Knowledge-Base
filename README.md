@@ -519,7 +519,7 @@ Cleric is very cookie‑cutter, so here are the main builds:
    Imbue, Consecrate, Holy Flame.
 
 3. **PvP build** — Healer but more Con/Wis.  
-   Heals, buffs, utility, Holy Inferno/Holy Fire, Dispel. 
+   Heals, buffs, utility, Holy Inferno/Holy Fire, Dispel.<br>
    Also focuses on extra HP (more Con).
 
 
