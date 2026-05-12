@@ -1,829 +1,975 @@
-Table of contents:
-1.0 Introduction to the ETK2 Alpha Test
-1.1 Settings, hotkeys, UI
-1.2 Starting Out
-1.3 Stats
-1.4 Places of interest
-1.5 Additional Features
+# ETK2 Alpha Test Knowledge Base
 
-2.0 Classes, Builds, and Strategies
-2.1 Guardian
-2.1.1 Comprehensive Guardian Spell List
-2.1.2 Building Guardian
-2.1.3 Guardian Build Purposes
+## Table of Contents
+* [1.0 Introduction](#10-introduction-to-the-etk2-alpha-test)
+    * [1.1 Settings, Hotkeys, UI](#11-settings-hotkeys-ui)
+    * [1.2 Starting Out](#12-starting-out)
+    * [1.3 Stats](#13-stats)
+    * [1.4 Places of Interest](#14-places-of-interest)
+    * [1.5 Additional Features](#15-additional-features)
+* [2.0 Classes, Builds, and Strategies](#20-classes-builds-and-strategies)
+    * [2.1 Guardian](#21-guardian)
+    * [2.2 Ranger](#22-ranger)
+    * [2.3 Wizard](#23-wizard)
+    * [2.4 Cleric](#24-cleric)
+    * [2.5 Monk](#25-monk)
+    * [2.6 Group Strategy](#26-group-strategy)
+* [3.0 Crafting Systems](#30-crafting-systems)
+    * [3.1 Mining & Smithing](#31-mining--smithing)
+    * [3.2 Weaving & Tailor](#32-weaving--tailor)
+    * [3.3 Gemcutting & Jewelcrafting](#33-gemcutting--jewelcrafting)
+    * [3.4 Woodcutting & Carpentry](#34-woodcutting--carpentry-tbda)
+    * [3.5 Enhancement, Stats, Tips](#35-enhancement-stats-tips)
+* [4.0 Loose Ends](#40-loose-ends)
+    * [4.1 Bugs & Suggestions](#41-bugs--suggestions)
+    * [4.2 FAQ](#42-faq)
+    * [4.3 Minigames](#43-minigames)
+    * [4.4 Additional Resources](#44-additional-resources)
 
-2.2 Ranger
-2.2.1 Comprehensive Ranger Spell List
-2.2.2 Building Ranger
-2.2.3 Ranger Build Purposes
+---
 
-2.3 Wizard
-2.3.1 Comprehensive Wizard Spell List
-2.3.2 Building Wizard
-2.3.3 Wizard Build Purposes
-
-2.4 Cleric
-2.4.1 Comprehensive Cleric Spell List
-2.4.2 Building Cleric
-2.4.3 Cleric Build Purposes
-
-2.5 Monk
-2.5.1 Comprehensive Monk Spell List
-2.5.2 Building Monk
-2.5.3 Monk Build Purposes
-
-2.6 Group Strategy
-2.6.1 Duo
-2.6.2 Trio
-2.6.3 Large Group
-
-3.0 Crafting Systems
-3.1 Mining & Smithing
-3.2 Weaving & Tailor
-3.3 Gemcutting & Jewelcrafting
-3.4 Woodcutting? Carpentry? (TBD/A)
-3.5 Enhancement, Stats, Tips
-
-4.0 Loose ends
-4.1 Bugs & Suggestions
-4.2 FAQ
-4.3 Minigames
-4.4 Additional Resources
-
-
-
-
-
-
-1.0 Introduction to the ETK2 Alpha Test:
+## 1.0 Introduction to the ETK2 Alpha Test
 This is the beginning phase of development.
-The only developer involved in this project is Stelio.
-The primary objectives as testers are; to find as many bugs as possible, test the quality of the game, and most of all report your findings.
-The only official website is:
-https://therealmofchaos.com/
-You can register for a master account and download the game here.
-Be sure to create your account carefully with a password you are capable of memorizing and a correct/valid email address.
+* **Developer:** The only developer involved in this project is **Stelio**.
+* **Tester Objectives:** Find as many bugs as possible, test the quality of the game, and report your findings.
+* **Official Website:** [therealmofchaos.com](https://therealmofchaos.com/)
+* **Registration:** Create your account carefully with a password you can memorize and a valid email address.
 
+---
 
-1.1 Settings, Hotkeys, UI:
-You can find the settings by pressing escape.
+## 1.1 Settings, Hotkeys, UI
+You can find the settings by pressing **Escape**.
 
-First we have Chat settings.
-It has on/off for Lock chat, Curse filtering, and Chat bubbles.
-It also allows you to select colors for different kinds of chats.
-Lock chat - If red you can resize/move the chat, if green it cannot be resized/moved.
-Curse filter - If red you can see all text unfiltered, if green most offensive words letters will be replaced by stars.
-Chat Bubbles - If green you can see what people say in the chat over their heads. If red it is only shown in the chat window.
+### Chat Settings
+You can select colors for different kinds of chats and toggle the following:
 
-Next up is Gameplay settings.
-Here we have on/off for Show Helm, KB Area Target, FPS Counter, and Click Movement.
-Show Helm - If off your characters hair is shown, if on the characters helmet is shown.
-KB Area Target - If off you can freely use mouse to target with area spells. If on you can select a target for the area spell to center on with keyboard. (In example Volley)
-FPS Counter - Off displays nothing, On displays FPS and Ping, debug displays full details.
-Click Movement - If turned on you can move by clicking instead of using your movement keybinds.
+| Setting | Status | Effect |
+| :--- | :--- | :--- |
+| **Lock Chat** | Red | You can resize or move the chat window. |
+| | Green | Chat cannot be resized or moved. |
+| **Curse Filter** | Red | All text is unfiltered. |
+| | Green | Offensive words are replaced by stars. |
+| **Chat Bubbles** | Green | Text appears in bubbles over player heads. |
+| | Red | Text is only shown in the chat window. |
 
-Resolution settings, FPS settings, and sound should speak for themselves.
-Set a res that is compatible with your monitor.
+### Gameplay Settings
+Toggle specific UI and control features:
 
-Use a FPS limit that you think feels good for you, or is otherwise acceptable for your hardware.
+| Setting | Effect |
+| :--- | :--- |
+| **Show Helm** | **On:** Helmet is shown. **Off:** Character hair is shown. |
+| **KB Area Target**| **Off:** Use mouse to target area spells. **On:** Use keyboard to center area spells (e.g., Volley). |
+| **FPS Counter** | **Off:** Hidden. **On:** Displays FPS and Ping. **Debug:** Full details. |
+| **Click Movement** | When **On**, move by clicking instead of using keybinds. |
 
-Sound/Music is a personal preference, enjoy or don't as you please.
+### Technical Settings
+* **Resolution:** Set a resolution compatible with your monitor.
+* **FPS Limit:** Use a limit that feels good for you or suits your hardware.
+* **Sound/Music:** Adjusted based on personal preference.
+### 1.1 Hotkeys & Keybinds
+I will list all the hotkeys here with explanations
+Under keybinds, you can change the majority of hotkeys to whatever key you want. 
+I highly suggest setting these up in a way that is comfortable for you.
 
-Lastly, we have keybinds.
-Under keybinds you will find you can change the majority of hotkeys to whatever key you want.
-I highly suggest using the keybinds section as a reference and setting it up the way that is comfortable for you.
-
-I will list all the hotkeys here with explanations:
 <details>
-<summary><b>Click to expand hotkey list</b></summary>
-Toggle Names - Disables/enables the overhead text which displays players names.
-Toggle Inventory - Opens inventory/changes between inventory view modes. 
-Toggle Spells - Opens spell panel.
-Toggle Party - Opens group panel.
-Toggle Quests - Opens quest panel.
-Toggle Friends - Opens friends list/pending/block list.
-Toggle World Map - Opens  / closes area map.
-Toggle Character - Opens character panel.
-Toggle Forum - Opens boards.
-Toggle Who List - Displays online player list.
-Toggle Hotbar Labels - Toggles between timer prioritized label (Cooldowns) or visual indication of what each spell hotkey is.
-Move Up - Moves character up.
-Move Down - Moves character down.
-Move Left - Moves character left.
-Move Right - Moves character right.
-Attack - Swing fist/weapon. (Normal attacks)
-Pickup - Picks up items directly underneath you. Picks up items in a square if dropped by monsters you defeated.
-Look - Prints what is directly in front of you to your status box.
-Target Previous - Move target left/up
-Target Next - Move target right/down
-Target Previous Alt - Move target left/up.
-Target Next Alt - Move target right/down
-Confirm Target - Used to manually confirm the target when casting a targeted spell directly.
-Tab Target - Blue rectangle target for any targets.
-Target Enemy - Red rectangle target for any monsters.
-Target Friendly - Green rectangle target for any players.
-Toggle Group - Turns group on/off, used to join a group or leave one. If off, you cannot be grouped.
-Toggle Exchange - Turns exchange on/off. If off you cannot be sent a trade window.
-Toggle Chat - toggles the full chat mode on/off.
-Open Whisper - Opens the private message field of the chat to type a players name to privately message.
-Refresh - refreshes the clients display.
-Toggle Object Transparency - Toggles ability to see through objects.
-Action Slot 1-19 - Hotkeys for your spells assigned to the action bar across the bottom of your screen.
-Action Bar row Up/Down - Changes which action bar you have active. Forward/Backwards
-Emotes - Besides by default being ctrl+ Letter, it's exactly the same as NTK letter-wise. So I will omit detailing every emote.
+<summary><b>Click to expand the full Hotkey List</b></summary>
+
+| Command | Description |
+| :--- | :--- |
+| **Toggle Names** | Disables/enables the overhead text which displays players names. |
+| **Toggle Inventory** | Opens inventory/changes between inventory view modes. |
+| **Toggle Spells** | Opens spell panel. |
+| **Toggle Party** | Opens group panel. |
+| **Toggle Quests** | Opens quest panel. |
+| **Toggle Friends** | Opens friends list/pending/block list. |
+| **Toggle World Map** | Opens / closes area map. |
+| **Toggle Character** | Opens character panel. |
+| **Toggle Forum** | Opens boards. |
+| **Toggle Who List** | Displays online player list. |
+| **Toggle Hotbar Labels** | Toggles between timer prioritized label (Cooldowns) or visual indication of what each spell hotkey is. |
+| **Move Up/Down/Left/Right** | Moves character in the specified direction. |
+| **Attack** | Swing fist/weapon (Normal attacks). |
+| **Pickup** | Picks up items directly underneath you or in a square if dropped by monsters you defeated. |
+| **Look** | Prints what is directly in front of you to your status box. |
+| **Target Previous/Next** | Move target left/up or right/down. |
+| **Target Prev/Next Alt** | Alternative keys to move target left/up or right/down. |
+| **Confirm Target** | Used to manually confirm the target when casting a targeted spell directly. |
+| **Tab Target** | Blue rectangle target for any targets. |
+| **Target Enemy** | Red rectangle target for any monsters. |
+| **Target Friendly** | Green rectangle target for any players. |
+| **Toggle Group** | Turns group on/off; used to join/leave a group. If off, you cannot be grouped. |
+| **Toggle Exchange** | Turns exchange on/off. If off, you cannot be sent a trade window. |
+| **Toggle Chat** | Toggles the full chat mode on/off. |
+| **Open Whisper** | Opens the private message field of the chat. |
+| **Refresh** | Refreshes the client display. |
+| **Toggle Object Transparency** | Toggles ability to see through objects. |
+| **Action Slot 1-19** | Hotkeys for spells assigned to the action bar across the bottom of your screen. |
+| **Action Bar row Up/Down** | Changes which action bar you have active (Forward/Backwards). |
+| **Emotes** | Default is `Ctrl + Letter`; identical to NTK letter-wise. |
+
 </details>
 
-1.2 Starting Out:
-The first thing you should do upon starting the game is the tutor quest.
-As of current it is only 1 short quest to obtain 5 rabbit meat. Rewards 1 wooden stick and some peasant clothes.
-The next thing is to pick a class. You can pick a class at any level, simply open the map and walk to the one you want to play.
-The first place to hunt is the crypts in the northeast of Seonhwa.
-Short progression chart - Room 1 (Level 1-5) ~> Room 2&3 (Level 5-10) ~> Room 4&5 (Level 10-15) ~> Fox
-You will want to collect all drops, many things can be sold to the butcher, tailor, and jeweler.
-Gear cannot be sold to npcs, it is instead used for crafting systems.
+## 1.2 Starting Out
+The first thing you should do upon starting the game is the **Tutor Quest**.
+
+* **Tutor Quest:** Collect 5 rabbit meat.
+* **Rewards:** 1 wooden stick and peasant clothes.
+* **Class Selection:** You can pick a class at any level by walking to your preferred guild on the map.
+* **Economy:** Collect all drops. Junk can be sold to the Butcher, Tailor, or Jeweler.
+* **Gear:** Gear cannot be sold to NPCs; it is used for crafting systems.
+
+### Hunting Progression
+| Level Range | Location |
+| :--- | :--- |
+| **Level 1-5** | Crypts: Room 1 |
+| **Level 5-10** | Crypts: Rooms 2 & 3 |
+| **Level 10-15** | Crypts: Rooms 4 & 5 |
+| **Level 15+** | Fox |
+
+---
+
+## 1.3 Stats
+| Stat | Description |
+| :--- | :--- |
+| **CON** | Influences HP/Vita per level. Effectiveness is higher when bought at lower levels (e.g., Level 2-6 vs Level 45-50). |
+| **WIS** | Influences MP for Wizards and Clerics. Scales Zap crit chance for Wizards. |
+| **INT** | Purpose varies by class. |
+| **STR** | 4 points = 1 damage. Scales hit rate for melee. |
+| **DEX** | Scales crit/crit damage for all and hit rate for bows. |
+
+---
+
+## 1.4 Places of Interest
+<details>
+<summary><b>Click to expand Locations & Services</b></summary>
+
+| Place | Description |
+| :--- | :--- |
+| **Inn** | Deposit/withdraw items/gold, refill resources, and change appearance. |
+| **Tutor** | Starting area for the rabbit meat quest. |
+| **Arena** | Contains PvP, revive rooms, and Minigame doors (Paintball, Elixir, Sumo, Carnage, Deathball, Pillowfight). |
+| **Blacksmith** | Repair, buy gear/pickaxes, smelt, and smith. |
+| **Jeweler** | Sell/cut gems and craft jewelry. |
+| **Tailor** | Sell/weave fur and craft cloth items. |
+| **Butcher** | Sell junk items. |
+| **Shaman** | Location for revival upon death. |
+| **Messenger** | NPC for stat respecs. |
+| **Class Guilds** | Become a Ranger, Wizard, Monk, Guardian, or Cleric and buy spells. |
+| **Caves/Dens** | Crypt (1-65), Fox Den (15), Insect Tunnels (25), Boar's Den (30), Bear (35), Wolf (40), Swamp (50 instance). |
+| **Carpenter/Potion** | Currently not available/empty buildings. |
+
+</details>
+
+---
+
+## 1.5 Additional Features
+<details>
+<summary><b>Click to expand Game Mechanics & UI</b></summary>
+
+* **Group Menu:** Mouse over a member and press a spell to auto-target/cast. Includes buff/debuff icons.
+* **Who List:** Features custom leaderboards for Paintball, Power, and Wealth.
+* **Class Resources:** * **Monks:** Spirit (instead of mana)
+    * **Rangers:** Endurance (instead of mana)
+    * **Guardians:** Rage (instead of mana)
+* **Projectiles:** Have hitboxes; they do not hit instantly and are dodgeable.
+* **Inventory:** Limited to 30 slots.
+
+</details>
 
 
-1.3 Stats:
-Con - Influences HP/Vita PER level. If you by 15 points of con from lvl 45-50 it is not as effective as buying 15 points of con at lvl 2-6
-Wis - Influences MP for wizards & clerics. Has various purposes for specific classes. (I.E wis scales zap crit chance for wizard)
-Int - Purpose varies with class.
-Str - 4 points = 1 dmg scales hit rate for melee
-Dex - Scales crit/crit dmg for all & hit rate for bows
+## 2.0 Classes, Builds, and Strategies
+This section provides comprehensive information for each class. Group mechanics are compared at the end of this section.
 
-1.4 Places of Interest:
-Inn - Deposit/withdraw items/gold, stay the night to refill resources, and change face/hair/beard.
-Tutor - First place you go when you start the game. Has a quest to obtain 5 rabbit meat.
-Arena - Has a pvp room, a revive room, and doors for every MG. Upper left north wall is paintball, to the right is Elixir wars, to the right is sumo, to the right is carnage. 
-Northern left wall is deathball, southern left wall is pillow fights.
-Blacksmith - Repair, buy basic gear/pickaxe, smelt, and smith here.
-Jeweler - Sell gems, cut gems, and craft jewelery here.
-Tailor - Sell fur, weave fur, and craft cloth related items here.
-Butcher - Sell junk items here.
-Shaman - Where you go when you die and revive.
-Messenger - Where the npc to respec resides.
-Ranger - Where you go to become a ranger and buy ranger spells.
-Wizard - Where you go to become a wizard and buy wizard spells.
-Monk - Where you go to become a monk and buy monk spells
-Guardian - Where you go to become a guardian and buy guardian spells.
-Cleric - Where you go to become a cleric and buy cleric spells.
-Crypt - Class etk cave with rooms going from levels 1 to 65
-Fox Den - Level 15 cave
-Insect Tunnels - Level 25 cave
-Boar's Den - Level 30 cave
-Northern wilderness - Has Swamp (Level 50 instance), Bear (Level 35 cave), and Wolf (Level 40 cave).
-Carpenter - Currently not available/empty building
-Potion Shop - Currently not available/empty building
+### Stat Legend
+| Abbreviation | Stat |
+| :--- | :--- |
+| **C** | Con |
+| **W** | Wis |
+| **I** | Int |
+| **S** | Str |
+| **D** | Dex |
 
-1.5 Additional Features:
-The group menu is perhaps the most interesting additional feature on etk2 alpha.
-Mousing over a group member and pressing a spell = it automatically targets and casts on that person given they are in range.
-It has icon indications for buffs & debuffs.
+* **Note:** All classes can learn **Mending** at level 1 and **Sage** at level 50.
 
-In the who list there are custom leaderboards for Paintball, Power, and Wealth.
+---
 
-Monks don't have mana, instead they have spirit.
-Rangers don't have mana, instead they have endurance.
-Guardians don't have mana, instead they have rage.
+## 2.1 Guardian
+Guardians use swords and are currently the highest group-oriented DPS in the game.
 
-Projectiles have hitboxes so they do not hit instantly. This means they are also dodgeable and must be timed precisely.
+* **Role:** Necessary as tanks for some content.
+* **Solo Performance:** Ranked 3rd strongest/weakest solo; significantly outshined by Rangers and Wizards.
+* **Maintenance:** Repair bills are significantly higher than other classes, making soloing ultra-punishing.
+* **Scaling:** Group DPS is heavily influenced by Vita, Str, and weapon damage.
 
-Inventory has a limit of 30 slots.
+### 2.1.2 Comprehensive Guardian Spell List
+<details>
+<summary><b>Click to expand Guardian Spells</b></summary>
 
+| Spell Name | Requirements | Description |
+| :--- | :--- | :--- |
+| **Smoldering Fury** | S8 C3 | 1st rage; amplifying swing dmg |
+| **Kindled Wrath** | S22 C12 | 2nd rage |
+| **Bloodrage** | S42 C25 | 3rd rage |
+| **Warpath** | S68 C42 | 4th rage |
+| **Rampage** | S88 C55 | 5th rage |
+| **Desolation** | S105 C65 | 6th rage |
+| **Cataclysm** | S118 C78 | 7th and final rage |
+| **Second Wind** | C8 | Lowest self-heal |
+| **Steel Mend** | W8 C35 | 2nd self-heal |
+| **Battle Mend** | W18 C72 | 3rd self-heal |
+| **Unbreakable** | W28 C105 | 4th and final self-heal |
+| **Defensive Stance** | C25 | 15% reduced dmg taken; swings debuff target dmg by 25% for 6s; hits in a square |
+| **Offensive Stance** | S28 D12 | +25% swing dmg; receive 15% more dmg; 40% reduced self-heal; hits in a square |
+| **Slice** | S30 D18 | Costs 5% HP to deal 8% Vita +10 (Offensive only) |
+| **Decimate** | S55 D28 | Costs 30% HP to deal 75% Vita +50 with overflow (Offensive only) |
+| **Wind Strike** | S72 D42 | Costs 30% HP; Vita attack all 4 adjacent tiles; 35% Vita + Str scaling + 0.5x weapon dmg (Offensive only) |
+| **Ground Slam** | S78 D35 C18 | 5x3 AoE; costs 50 rage; 50 flat + 13/str + 1.5x weapon dmg (Offensive only) |
+| **Taunt** | S5 C6 | Single target taunt scaling with Str, Vita, and level |
+| **Righteousness** | S10 C22 | 3x threat rate buff; additional threat with higher Str |
+| **Battle Shout** | S25 C52 | AoE taunt; threat scales with Str/Con and rage consumed |
+| **Enrage** | W14 C18 | Rage regeneration for 20s; scales with all stats |
+| **Shield Block** | C38 | Reduces Armor Class by 10 for 5s (Defensive only) |
+| **Leap** | S15 D12 | 3% Vita cost; jump to target up to 7 tiles away; Str/Dex dmg |
+| **Vengeance** | S35 C55 | Build up dmg taken and release as AoE dmg (Defensive only) |
+| **Shield Slam** | S15 C55 | Root target for 3s (Defensive only) |
+| **Last Stand** | C115 | +25% Max HP for 15s (+0.05s per Con); min 1 HP on expiry |
+| **Frenzy** | S75 D38 | Toggle +30% swing dmg; drains 2 rage/swing; blocks rage gain (Offensive only) |
+| **Berserk** | S95 D55 C32 | 30s duration; auto-casts Slice (50%), Decimate (30%), Wind Strike (20%) (Offensive only) |
 
+</details>
 
-2.0 Class Builds and Strategies:
-In this section we will be compressing comprehensive information pertaining to each class.
-At the end we will compare this knowledge across other classes to understand group mechanics.
-All classes are able to learn mending at level 1 and sage at level 50.
-Before we move on lets elaborate stats:
-C = Con
-W = Wis
-I = Int
-S = Str
-D = Dex
+### 2.1.3 Building Guardian
+* **Priorities:** Focus on reaching higher rages and heals; **Defensive Stance** is generally the safest bet.
+* **Level 1-40:** Offensive stance is usable solo but can be sketchy.
+* **Level 50+:** Tank builds are ideal; utilize **Vengeance** even in groups.
+* **Level 70+:** Berserker builds become viable with a healer, providing unparalleled DPS.
+* **Endgame:** After Cataclysm and Unbreakable, solo strength is dictated primarily by gear.
 
-
-2.1 Guardian:
-Guardians use swords.
-For some content tanks are necessary
-They are currently the highest group oriented dps in the game.
-The repair bill of guardians is significantly higher than other classes.
-Guardians are the 3rd strongest & weakest when solo. Outshined by Ranger & Wizard to extreme degrees.
-
-2.1.2 Comprehensive Guardian Spell List:
-Smoldering Fury - S8 C3 - First rage amplifying swing dmg
-Kindled Wrath - S22 C12 - Second rage
-Bloodrage - S42 - C25 - Third rage
-Warpath - S68 C42 - Fourth rage
-Rampage - S88 C55 - Fifth rage
-Desolation - S105 C65 - Sixth rage
-Cataclysm - S118 C78 - 7th and last rage
-Second Wind - C8 - Lowest guardian self heal
-Steel Mend - W8 C35 - Second guardian self heal
-Battle Mend - W18 C72 - Third guardian self heal
-Unbreakable - W28 C105 - Fourth and final guardian self heal.
-Defensive stance - C25 - 15% reduced dmg taken, Swings debuff target damage by 25% for 6s, hits in a square around the player.
-Offensive stance - S28 D12 - add 25% swing dmg, receive 15% more damage, 40% reduced self healing, hits in a square around the player.
-Slice - S30 D18 - Costs 5% hp to deal 8% of vita +10. (Offensive stance only)
-Decimate - S55 D28 - Costs 30% hp to deal 75% of vita +50 with overflow. (Offensive stance only)
-Wind Strike - S72 D42 - Vita attack all 4 adjacent tiles. costs 30% hp to deal 35% of vita + str scaling + 0.5x weapon dmg. (Offensive stance only)
-Ground Slam - S78 D35 C18 - 5 long x 3 wide AoE. 50 rage, 50 flat + 13/str + 1.5x weapon dmg. (Offensive stance only)
-Taunt - S5 C6 - Single target taunt scaling with str, vita, and level.
-Righteousness - S10 C22 - 3x threat rate buff, additional threat with higher str.
-Battle Shout - S25 C52 - AoE taunt scaling with rage consumed. 2 base, + 0.03/rage/rage, max of 8. Threat scales with str/con.
-Enrage - W14 C18 - Rage regeneration for 20 seconds, scales with all stats.
-Shield Block - C38 - reduces armor class by 10 for 5 seconds (Defensive stance only.)
-Leap - S15 D12 - Targetable 3% vita cost spell to leap to target up to 7 tiles away dealing str/dex based damage. 
-Vengeance - S35 C55 - Build up damage taken and release it as AoE damage. (Defensive stance only.)
-Shield Slam - S15 C55 - Root target for 3 seconds. (Defensive stance only.)
-Last Stand - C115 - increase max hp by 25% for 15 seconds. +0.05 seconds per con. Minimum 1 hp upon expiring.
-Frenzy - S75 D38 - Toggle for 30% swing damage bonus, draining rage by 2 per swing. Blocks rage gain, ending at 0 rage. (Offensive stance only.)
-Berserk - S95 D55 C32 - for 30 seconds it auto casts slice at a 50% chance, decimate at a 30% chance, and wind strike at a 20% chance. (Offensive stance only.)
-
-2.1.3 Building Guardian:
-Generally you want to prioritize getting to higher rages and heals. Defensive stance is a safe bet.
-It is possible to use an offensive stance up to about level 40 solo but it can be sketchy at some points.
-In the 50s it is better to make use of vengeance even in groups, so a tank build is ideal overall.
-In the 70s you can get a berserker build unlocking unparalleled dps when you have a healer.
-After cataclysm & unbreakable, guardian doesn't really get any stronger solo.
-Gear is what influences that aspect going forward.
-
-Group dps is heavily influenced by vita, str, and weapon damage. 
-Meaning berserk, slice, wind strike, decimate, & ground slam can grow continuously with more con investment.
-
-2.1.4 Guardian Build Purposes:
-By the 80s technically guardian can have every single possible spell unlocked simultaneously.
-Early on decisions aren't even necessary. It's pretty much always a cookie cutter answer until about the 70s where it all becomes pointless to think about further.
-So instead lets look at what is objectively split apart, stances.
-
-Defensive stance is pretty much required for soloing of-level content & tanking instances for groups. Maybe even some bosses it would be a safe bet.
-
-Offensive stance is where the greatest dps potential is, but is not ideal for soloing unless you are 30+ levels beyond that content.
-
-Generally, it's the most overplayed class because it's easy, not because it's great.
-While it is the highest sustained dps in the game, without a healer it is the worst in the game.
-The extremely higher repair costs makes soloing on guardian ultra punishing.
-It has absolutely no benefit over other classes in terms of soloing.
+### 2.1.4 Guardian Build Purposes
+* **Stances:** Defensive is required for soloing of-level content, tanking instances, and bosses. Offensive offers the highest DPS but is only recommended for soloing content you have out-leveled by 30+ levels.
+* **Efficiency:** While high DPS, guardians are the worst DPS in the game without a healer. They offer no specific benefit over other classes for solo play.
 
 
-2.2 Ranger:
-Rangers use bows or daggers.
-They depend on high AoE damage, high mobility, and smart positioning to perform well.
-Jack-of-all trades with a slight skill requirement. Starts out slow, grows tremendously.
+## 2.2 Ranger
+Rangers use bows or daggers.  
+They depend on high AoE damage, high mobility, and smart positioning to perform well.  
+Jack-of-all trades with a slight skill requirement. Starts out slow, grows tremendously.  
 Currently melee builds are not viable for PvE.
 
-2.2.1 Comprehensive Ranger Spell List:
-Name - Requirement - Explanation
-Envenom weapon - D3 - 5 minute self buff to apply poison on targets you attack. Swings, shots, & volley all apply this poison.
-Throw trap - I5 D7 - After being cast, the next trap you cast allows you to select which tile to throw it to within a certain range.
-Ambush - S19 D55 - Consumes 5 endurance to move to another side of a target you are facing.
-Frost trap - I10 D5 - Sets a trap that when stepped on activates a slow debuff on the tile it was set on & the 4 adjacent tiles around it.
-Backstab - S35 - When facing a targets back allows you to do a small amount of damage to the target.
-Soothe - W10 C12 - Weak self heal.
-Fan of Knives - S38 - AoE that can be larger the more targets are connected nearby. Used to spread poison on melee build.
-Piercing Shot - S29 I8 D32 - Charged spell which if held for 5 seconds allows you to shoot an entire line of mobs. Activated by shooting bow.
-Shatter Arrow - I18 D18 - Allows your arrows to hit 4 targets instead of 1 at the cost of 3 endurance per swing/shot. 
-Damage Trap - S15 I15 C8 - Places a trap that deals damage based on str to the target that activates it.
-Envenom weapon II - I18 D27 - Stronger version of Envenom Weapon
-Volley I - I25 D78 - AoE scaling with dex/int/weapon dmg that hits a 3x3 area.
-Invisibility - W22 - Makes you invisible to other players but prevents some sources of damage from working on enemies.
-Poison Trap - I42 D15 - Places a trap that when activated affects all targets in all directions up to 4 tiles.
-Fox's Cunning - (S12 OR D12) + C12 - Rage which multiplies swing damage, volley, and poison.
-Mend - W40 C22 - Our most resource efficient heal. Costs 5 endurance and applies a stacking heal over time effect.
-Eviscerate (Vita attack) - S55 C18 - Very high scaling attack costing 50% of vita
-Dash - S42 C18  - 9 tile leap
-Curse trap - I42 D15 W22 - Places a trap that makes the target briefly receive more damage when activated.
-Sleep trap - I40 D15 W18 - Places a trap that puts the target who steps on it to sleep for a certain period of time.
-Envenom weapon III - I35 D38 - Stronger version of envenom weapon II
-Melee Specialization - S45 D25 C18 - When active your melee damage ramps up per swing. (Does not work with bows.)
-Wolf's Tenacity - (S30 OR D30) + C22 - Rage upgrade from Fox's Cunning.
-Charged Shot I - I28 D68 C18 - Can be charged up to 5 seconds to increase damage. Activated by swinging/shooting, and affects a square around the target.
-Rejuvenate - I22 W35 C35 - Our easiest to obtain good heal. Costs 10 endurance and triggers a powerful heal over time effect.
-Envenom weapon IV - I52 D58 - Strongest version of the envenom weapon spell.
-Tiger's Fury - (S48 OR D48) + C28 - 3rd rage, upgrade over Wolf's Tenacity and Fox's Cunning.
-Revitalize - W92 C52 - Our strongest heal but not really worth the stat points currently.
-Bear's Rage - (S66 OR D66) + C35 - 4th rage, upgrade over Tiger's Fury, Wolf's Tenacity, and Fox's Cunning.
-Volley II - I42 D92 C18 - Strongest ranger spell, upgrade over Volley I which is now a 5x5 area.
-Charged Shot II - I42 D92 C25 - Stronger version of Charged shot I.
-Dragon's Wrath - (S105 OR D105) + C42 - Strongest rage.
+---
 
-2.2.2 Building Ranger:
-Levels 1-20 typically just prioritize poison (Envenom weapon) and efficiently spreading poison.
-Levels 20-35 you can choose some QoL like shatter arrow or fan of knives, soothe, whatever suits you. 
-Levels 35+ you should be focusing on getting the gear stats so you can get volley II ASAP. Poison trap + Volley II are the majority of rangers dps.
-Levels 50+ You should be looking towards the QoL that suits you best.
-Solo a lot? Get a heal ASAP. Have a solid group? Prioritize next rage/ envenom IV.
-By the late 70s you should be able to have at least dash, rejuvenate, dragons wrath, envenom IV, volley II, charged shot II, and all traps.
-Going forward you can opt for more dex & int to increase your volley/poison dmg, or you can invest into hybrid builds.
+### 2.2.1 Comprehensive Ranger Spell List
+<details>
+<summary><b>Click to expand Ranger Spells</b></summary>
 
-There isn't much to say about how it progresses. It poisons things, then it volleys & poison things. It keeps doing that.
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Envenom Weapon** | D3 | 5‑minute self‑buff applying poison on swings, shots, and volley. |
+| **Throw Trap** | I5 D7 | Next trap can be thrown to a selected tile within range. |
+| **Ambush** | S19 D55 | Consumes 5 endurance to move to the opposite side of the target you're facing. |
+| **Frost Trap** | I10 D5 | Trap that slows on its tile and the 4 adjacent tiles. |
+| **Backstab** | S35 | Small damage when striking a target from behind. |
+| **Soothe** | W10 C12 | Weak self‑heal. |
+| **Fan of Knives** | S38 | AoE that grows with connected targets; spreads poison for melee builds. |
+| **Piercing Shot** | S29 I8 D32 | Charge 5s to fire a line‑piercing shot; activated by bow attack. |
+| **Shatter Arrow** | I18 D18 | Arrows hit 4 targets instead of 1; costs 3 endurance per shot. |
+| **Damage Trap** | S15 I15 C8 | Trap dealing Str‑scaled damage to the activator. |
+| **Envenom Weapon II** | I18 D27 | Stronger poison buff. |
+| **Volley I** | I25 D78 | 3x3 AoE scaling with Dex/Int/weapon damage. |
+| **Invisibility** | W22 | Invisible to players; prevents some damage sources from working on enemies. |
+| **Poison Trap** | I42 D15 | Trap that poisons all targets in all directions up to 4 tiles. |
+| **Fox's Cunning** | (S12 OR D12) + C12 | Rage multiplying swing, volley, and poison damage. |
+| **Mend** | W40 C22 | Most resource‑efficient heal; costs 5 endurance; stacking HoT. |
+| **Eviscerate (Vita attack)** | S55 C18 | Very high scaling attack costing 50% of Vita. |
+| **Dash** | S42 C18 | 9‑tile leap. |
+| **Curse Trap** | I42 D15 W22 | Trap causing the target to briefly take increased damage. |
+| **Sleep Trap** | I40 D15 W18 | Trap that puts the target to sleep. |
+| **Envenom Weapon III** | I35 D38 | Stronger version of Envenom Weapon II. |
+| **Melee Specialization** | S45 D25 C18 | Ramping melee damage per swing (does not work with bows). |
+| **Wolf's Tenacity** | (S30 OR D30) + C22 | Rage upgrade from Fox's Cunning. |
+| **Charged Shot I** | I28 D68 C18 | Charge up to 5s; affects a square around the target; activated by swing/shot. |
+| **Rejuvenate** | I22 W35 C35 | Strong heal; costs 10 endurance; powerful HoT. |
+| **Envenom Weapon IV** | I52 D58 | Strongest Envenom Weapon version. |
+| **Tiger's Fury** | (S48 OR D48) + C28 | 3rd rage; upgrade over Wolf's Tenacity. |
+| **Revitalize** | W92 C52 | Strongest heal; currently not worth the stat investment. |
+| **Bear's Rage** | (S66 OR D66) + C35 | 4th rage; upgrade over Tiger's Fury. |
+| **Volley II** | I42 D92 C18 | Strongest ranger spell; 5x5 AoE; upgrade over Volley I. |
+| **Charged Shot II** | I42 D92 C25 | Stronger version of Charged Shot I. |
+| **Dragon's Wrath** | (S105 OR D105) + C42 | Strongest rage. |
+
+</details>
+
+---
+
+### 2.2.2 Building Ranger
+Levels 1–20: Prioritize poison (**Envenom Weapon**) and spreading poison efficiently.  
+Levels 20–35: Pick QoL options like **Shatter Arrow**, **Fan of Knives**, **Soothe**, etc.  
+Levels 35+: Focus on reaching the stats for **Volley II** ASAP. Poison Trap + Volley II are the majority of Ranger DPS.  
+Levels 50+: Choose QoL based on playstyle.  
+• Solo often? Get a heal early.  
+• Group often? Prioritize next rage / Envenom IV.  
+
+By the late 70s you should have:  
+Dash, Rejuvenate, Dragon’s Wrath, Envenom IV, Volley II, Charged Shot II, and all traps.
+
+After that, you can invest into more Dex/Int for Volley/Poison damage or experiment with hybrid builds.
+
+Ranger progression is simple:  
+It poisons things, then it volleys and poisons things. It keeps doing that.
+
+---
+
+### 2.2.3 Ranger Build Purposes
+Bow is currently the only fully functional build.  
+Its purpose is massive AoE damage — that’s the core identity.
+
+Melee and hybrid melee builds have one niche: **PvP**.
+
+PvP is extremely unbalanced right now. Even with **Eviscerate**, Rangers can only kill one target every 24 seconds — assuming it lands.  
+The upside: you can build huge HP pools and become very hard to kill.  
+You *can* kill low‑HP players if they stand still long enough, but it’s unreliable.
+
+This will almost certainly change soon, and current PvP balance should not be taken seriously for long‑term planning.
 
 
-2.2.3 Ranger Build Purposes:
-Bow is generally the only true build right now that actually works.
-It is intended to do massive AoE damage and that is technically about it.
-
-But melee and melee hybrid approaches have one solid niche.
-PvP. 
-
-Currently pvp is extremely unbalanced and even with Eviscerate we can only kill 1 target every 24 seconds.
-Assuming you can even land it instead of putting it on cooldown and doing nothing.
-Regardless of this, it allows you to build a tremendous amount of hp making yourself very hard to kill.
-You can technically swing lower hp players dead if they stand still long enough. Not exactly reliable.
-
-This is bound to change in the near future and balancing of these aspects is not currently something one should consider in seriousness.
-
-
-2.3 Wizard:
-Wizards use staff or sword.
-They have the largest pool of aoes of all classes.
-Equally, the squishiest class by far. 
-Wizard is not weak at all, but it does have the highest skill cap of all classes to perform well on.
+## 2.3 Wizard
+Wizards use staff or sword.  
+They have the largest pool of AoEs of all classes.  
+Equally, the squishiest class by far.  
+Wizard is not weak at all, but it does have the highest skill cap of all classes to perform well on.  
 Elementalist build is currently solid, enchanter build is lacking severely and not worth playing.
 
-2.3.1 Comprehensive Wizard Spell List:
-Spark - I10 W5 - First targetable zap spell scaling with int & crit chance scales with wis
-Meditation - free - Restores mana over time as long as you don't get hit or cast a spell/swing.
-Fireball - I18 D10 - Low damage AoE
-Mana Mend - I10 W12 C12 - The lowest wizard self-heal
-Mana Infuse - S15 I15 W8 - Drains mana per swing to deal magic damage.
-Arc - I30 W15 - Second targetable zap spell
-Ice Wall - I25 D20 W12 - Allows you to select up to 4 tiles to make impassable for a brief time.
-Frozen Armor - I15 D18 C22 - Reflects damage back at enemies when they attack you.
-Lightning Shield - I22 W20 C20 - Box AoE around self constantly dealing damage in a "circle" to those targets.
-Doze - I25 W28 - Puts target to sleep for a brief period, works in pvp.
-Mana Ingress - S25 I22 D10 W15 - Swinging restores mana instead of dealing magic damage.
-Enchanted Flank - S28 I25 D15 - Attacks also hit enemies on your sides.
-Voltstrike - I55 W28 - The third targetable zap.
-Blink - I45 D18 W20 - Mobility spell allowing you to select a tile to teleport to. Does not work if there is no clear path.
-Firewall - I45 D18 W20 - Allows you to select up to 9 tiles for placing a wall of fire which deals damage to targets on those tiles.
-Arcane Recovery - I25 W38 C30 - An upgrade of Mana Mend providing higher healing.
-Conduit I - I55 W32 - Automatically zaps targets within 8 tiles every few seconds.
-Energy shield - i32 W22 C38 - Take damage as mana instead of hp.
-Detonate - S38 I45 W15 - 4 direction attack based on mana infuse hit stacks.
-Thunderbolt - I78 W42 - The fourth targetable zap.
-Living Bomb - I72 D40 W28 - Targetable spell that explodes after a few seconds. If it kills that target or the target dies before it explodes, it spreads to adjacent enemies.
-Deep Freeze - I62 D45 W38 - Targetable spell which shatters damage to enemies in a square around the target when it receives damage
-Conduit II - I78 W48 - Upgrade of conduit I now zapping 2 targets and applying a curse debuff (Receive more damage)
-Siphon Vitality - I35 W55 C45 - The third wizard self-heal.
-Unbound Infuse - S55 I48 W32 - Party aura that shares 10% of mana infuse to the groups attacks as well.
-Tempest Lance - I105 W58 - The strongest targetable zap spell.
-Greater Firewall - I88 D60 W38 - Upgrade of firewall that does not share a cooldown. 13 selectable tiles & much higher damage scaling.
-Thunderstorm - I120 W55 C28 - Large area AoE that hits up to 8 targets per tick every 2 seconds for 20 seconds. Damage escalates after each tick.
-Eldritch Restoration - I48 W68 C58 - Wizards highest self heal.
-Unbound infuse II - S72 I65 W45 - upgrade of Unbound Infuse I, now shares 15% of mana infuse.
-Enchanted Bulwark - S110 I35 C55 - Self-buff which reduces incoming damage by 15%.
-Gust - I75 D95 W55 - Targetable AoE that deals damage in a box around the target for 7 seconds.
+---
 
+### 2.3.1 Comprehensive Wizard Spell List
+<details>
+<summary><b>Click to expand Wizard Spells</b></summary>
 
-2.3.2 Building Wizard:
-Early on I have received mixed messages about enchanter vs. zapper at low levels.
-I would say do what is more fun until about the 40s. They are pretty similar at low levels.
-The main thing to get online is unlocking thunderstorm in the 40s ASAP.
-From there it's really a series of options as you progress.
-More dex investment ~> More dps potential (And blink)
-More con investment ~> Higher heal/more survivability
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Spark** | I10 W5 | First targetable zap; scales with Int; crit chance scales with Wis. |
+| **Meditation** | Free | Restores mana over time if you do not get hit or cast/swing. |
+| **Fireball** | I18 D10 | Low‑damage AoE. |
+| **Mana Mend** | I10 W12 C12 | Lowest wizard self‑heal. |
+| **Mana Infuse** | S15 I15 W8 | Drains mana per swing to deal magic damage. |
+| **Arc** | I30 W15 | Second targetable zap. |
+| **Ice Wall** | I25 D20 W12 | Select up to 4 tiles to make impassable briefly. |
+| **Frozen Armor** | I15 D18 C22 | Reflects damage back at attackers. |
+| **Lightning Shield** | I22 W20 C20 | Box AoE around self, dealing constant “circle” damage. |
+| **Doze** | I25 W28 | Puts target to sleep briefly; works in PvP. |
+| **Mana Ingress** | S25 I22 D10 W15 | Swinging restores mana instead of dealing magic damage. |
+| **Enchanted Flank** | S28 I25 D15 | Attacks also hit enemies on your sides. |
+| **Voltstrike** | I55 W28 | Third targetable zap. |
+| **Blink** | I45 D18 W20 | Teleport to a selected tile; requires clear path. |
+| **Firewall** | I45 D18 W20 | Select up to 9 tiles to place damaging fire walls. |
+| **Arcane Recovery** | I25 W38 C30 | Upgrade of Mana Mend with higher healing. |
+| **Conduit I** | I55 W32 | Auto‑zaps targets within 8 tiles every few seconds. |
+| **Energy Shield** | I32 W22 C38 | Take damage as mana instead of HP. |
+| **Detonate** | S38 I45 W15 | 4‑direction attack based on Mana Infuse hit stacks. |
+| **Thunderbolt** | I78 W42 | Fourth targetable zap. |
+| **Living Bomb** | I72 D40 W28 | Target explodes after a delay; spreads if target dies. |
+| **Deep Freeze** | I62 D45 W38 | Targetable spell that shatters damage in a square around the target when it takes damage. |
+| **Conduit II** | I78 W48 | Upgrade of Conduit I; zaps 2 targets and applies curse (take more damage). |
+| **Siphon Vitality** | I35 W55 C45 | Third wizard self‑heal. |
+| **Unbound Infuse** | S55 I48 W32 | Party aura sharing 10% of Mana Infuse damage. |
+| **Tempest Lance** | I105 W58 | Strongest targetable zap. |
+| **Greater Firewall** | I88 D60 W38 | Upgrade of Firewall; 13 tiles; higher scaling; separate cooldown. |
+| **Thunderstorm** | I120 W55 C28 | Large AoE; hits up to 8 targets every 2s for 20s; damage escalates. |
+| **Eldritch Restoration** | I48 W68 C58 | Highest wizard self‑heal. |
+| **Unbound Infuse II** | S72 I65 W45 | Upgrade of Unbound Infuse; shares 15% of Mana Infuse. |
+| **Enchanted Bulwark** | S110 I35 C55 | Self‑buff reducing incoming damage by 15%. |
+| **Gust** | I75 D95 W55 | Targetable AoE dealing damage in a box around the target for 7 seconds. |
 
-By the late 60s you can obtain thunderstorm, greater firewall, firewall, living bomb, deep freeze, conduit II, tempest lance, and arcane recovery.
-By the early 80s you can finally unlock gust.
+</details>
 
-At this point all that would be left is next heal, more int for higher scaling, more wis for higher zap crit chance/more mana.
+---
 
+### 2.3.2 Building Wizard
+Early on, enchanter vs. zapper is mostly preference until the 40s — they are similar at low levels.  
+The main priority is unlocking **Thunderstorm** in the 40s as soon as possible.
 
-2.3.3 Wizard Build Purposes:
-Currently Enchanter falls off so hard by the 50s that there is really no competition here.
-So instead I'll divide up the builds by more specific categories:
-1. Electric kit (Primarily int & wis, some con.)
-2. Fire and ice kit (Primarily int, dex, & wis AKA dex kit)
-3. Enchanter kit (Primarily str & int, some wis/dex)
-4. Utility (Mostly just blink and heal deviate from the previous categories. Blink fits into fire & ice, heal uniquely requires more con than other kits.)
+After that, progression depends on stat focus:
 
-Elementalist kit does in fact include both Electric kits and fire & ice kits.
-But enchanter kit is not completely omited from being able to build the fire & ice kit.
-It's just not exactly worth doing currently.
+- More Dex → more DPS potential (and Blink)
+- More Con → higher healing and survivability
 
-Now there are some notable niches wizard can take full advantage of.
-Zap heavy builds, throwing away almost everything for int & wis, and just enough dex for ice wall.
-This is a pvp heavy approach that fixates primarily on the ability to kill clerics effectively & block the ball in deathball.
+By the late 60s you can obtain:  
+Thunderstorm, Greater Firewall, Firewall, Living Bomb, Deep Freeze, Conduit II, Tempest Lance, Arcane Recovery.
 
+By the early 80s you can unlock **Gust**.
 
+After that, remaining progression is:  
+More Int for scaling, more Wis for zap crit chance and mana, next heal upgrades.
 
+---
 
-2.4 Cleric:
-Clerics use staff, daggers, & swords.
-They are the premium healer, requiring very little skill to perform at the highest healing potential.
-Currently as dps they are so weak that they are hardly worth considering dps viable anymore.
-Regardless, dps is the way until about level 50 or so if you don't have an active group.
+### 2.3.3 Wizard Build Purposes
+Enchanter currently falls off extremely hard by the 50s, leaving no real competition.
 
-2.4.1 Comprehensive Cleric Spell List:
-Holy Fire - I11 C4 - Targetable damage over time.
-Invoke - I6 W17 - Consume hp to fully restore mana.
-Bless - D19 C6 - Increases targets hit rate.
-Minor Heal - I26 D4 C7 - The lowest cleric heal.
-Imbue - S28 W6 C11 - Converts weapon, reducing healing, enhancing swing damage, and allowing use of consecrate.
-Sanctify - I7 D4 W33 C9 - PvP target sanctuary 50% damage reduction. Can be used to prematurely end sanctuary in PvE.
-Lightbomb - I25 D3 W25 C9 - Weak 5 tile AoE.
-Sanctuary - I9 D6 W38 C9 - Party wide aura 50% dmg reduction, does not work in pvp, lasts 5 minutes.
-Seal Wounds - I42 D7 W6 C11 - The second cleric heal, upgrade over Minor Heal.
-Purify - I48 D4 W16 C11 - Removes scourge/curse from target.
-Imbue II - S52 D7 W9 C17 - Stronger version of Imbue.
-Death Ward - I12 D11 W53 C18 - A targetable buff that allows saving grace to be cast when a target dies.
-Consecrate - S33 I11 W37 C16 - Diamond AoE that deals damage and heals the affected tiles.
-Inspire - S4 I14 D6 W63 C11 - Transfers own mana to the target.
-Saving Grace - I62 D8 W16 C14 - Prevents a player when cast on a player within a few seconds of them dying, while death ward is active.
-Holy Flame - S58 I9 D11 W4 C22 - Targetable spell that does AoE damage in a square around the target for 4 seconds.
-Vital Infusion - I71 D9 W11 C17 - Third cleric heal, upgrade over Seal Wounds.
-Bind - S14 I16 W28 C37 - Roots a target in place for a brief duration.
-Dispel - I27 D9 W78 C21 - Removes the majority of buffs on a target.
-Light Shield - I25 W35 C26 - Shields a target, which takes damage in place of hp until broken.
-Silence - I92 D11 W23 C14 - Prevents a target from casting spells for a brief duration.
-Divine Mending - I97 D13 W16 C24 - Fourth Cleric heal, upgrade over Vital Infusion.
-Consecrate II - S53 I16 D6 W57 C23 - Upgrade of Consecrate, additional 4 dmg per 1 str & 4 healing per 1 int.
-Sacred Healing - I119 D14 W22 C31 - Fifth Cleric heal, upgrade over Divine Mending.
-Holy Inferno - I118 D11 W67 C19 - Stronger version of Holy fire, does not stack, but can be used on two different targets at the same time.
-Radiant Heal - I149 D17 W26 C35 - The highest Cleric heal.
-Restore - S6 I173 D19 W31 C41 - Heal target based on your mana.
-Harden Body - S108 I18 D14 W16 C31 - Prevent all sources of damage while active, fizzle chance reduced by int.
+Build categories:
+
+1. **Electric kit** — Primarily Int & Wis, some Con.  
+2. **Fire and Ice kit** — Primarily Int, Dex, Wis (Dex kit).  
+3. **Enchanter kit** — Primarily Str & Int, some Wis/Dex.  
+4. **Utility** — Blink and heals; Blink fits Fire & Ice; heals require more Con.
+
+Elementalist includes both Electric and Fire/Ice kits.  
+Enchanter *can* technically build Fire/Ice, but it is not worth doing currently.
+
+Notable niche:  
+Zap‑heavy builds that dump nearly everything into Int/Wis and just enough Dex for Ice Wall.  
+This is a PvP‑oriented approach focused on killing clerics and blocking the ball in deathball.
 
 
 
 
-2.4.2 Building Cleric:
-At low level stock a bunch of wine from the inn immediately.
-Invoke is not 100% viable until the 20s/30s.
-Start off with a holy fire build, which scales with WIS.
-When you can get imbue I it's worth having it and holy fire.
-It will increase your dps by a lot, but further reduce your healing.
+## 2.4 Cleric
+Clerics use staff, daggers, and swords.  
+They are the premium healer, requiring very little skill to perform at the highest healing potential.  
+Currently as DPS they are so weak that they are hardly worth considering DPS‑viable anymore.  
+Regardless, DPS is the way until about level 50 or so if you don't have an active group.
 
-In the late 20s you should be able to get consecrate I, at which point you can give up holy fire.
-By the 30s you should be focusing on more hp to survive.
-In the 40s you can obtain Consecrate II and holy flame, survivability will slightly drop.
-But dps will go way up for this level range.
-At this point you can group with players in the 70s so it is totally reasonable to take a healer build.
+---
 
-The dps build I stated from the 40s scales with STR but falls off very badly in the 50s compared to other dps.
-As for a healer build, it's fairly cookie cutter.
-Invoke ~> Sanctuary ~> Purify ~> Highest heal you can obtain ~> Everything else.
-Generally you want enough mana (from wis) to sustain healing.
-My rule of thumb is "Can I cast 1 heal every 2 seconds for my entire invoke aethers?"
-If yes, it's probably in an acceptable place.
-Light shield, bless, death ward, saving grace, bind, silence, dispel and inspire are all notable buffs/utility.
-These things aren't mandatory for a cleric to perform, but do help a lot.
+### 2.4.1 Comprehensive Cleric Spell List
+<details>
+<summary><b>Click to expand Cleric Spells</b></summary>
 
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Holy Fire** | I11 C4 | Targetable damage over time. |
+| **Invoke** | I6 W17 | Consume HP to fully restore mana. |
+| **Bless** | D19 C6 | Increases target’s hit rate. |
+| **Minor Heal** | I26 D4 C7 | Lowest cleric heal. |
+| **Imbue** | S28 W6 C11 | Converts weapon, reduces healing, increases swing damage, enables Consecrate. |
+| **Sanctify** | I7 D4 W33 C9 | PvP target sanctuary (50% dmg reduction). Ends Sanctuary early in PvE. |
+| **Lightbomb** | I25 D3 W25 C9 | Weak 5‑tile AoE. |
+| **Sanctuary** | I9 D6 W38 C9 | Party‑wide 50% damage reduction aura; lasts 5 minutes; does not work in PvP. |
+| **Seal Wounds** | I42 D7 W6 C11 | Second cleric heal; upgrade over Minor Heal. |
+| **Purify** | I48 D4 W16 C11 | Removes scourge/curse from target. |
+| **Imbue II** | S52 D7 W9 C17 | Stronger Imbue. |
+| **Death Ward** | I12 D11 W53 C18 | Buff enabling Saving Grace to trigger on death. |
+| **Consecrate** | S33 I11 W37 C16 | Diamond AoE dealing damage and healing affected tiles. |
+| **Inspire** | S4 I14 D6 W63 C11 | Transfers your mana to the target. |
+| **Saving Grace** | I62 D8 W16 C14 | Prevents death if cast within seconds of target dying while Death Ward is active. |
+| **Holy Flame** | S58 I9 D11 W4 C22 | Targetable spell dealing AoE damage in a square for 4 seconds. |
+| **Vital Infusion** | I71 D9 W11 C17 | Third cleric heal; upgrade over Seal Wounds. |
+| **Bind** | S14 I16 W28 C37 | Roots target briefly. |
+| **Dispel** | I27 D9 W78 C21 | Removes most buffs from a target. |
+| **Light Shield** | I25 W35 C26 | Shield that absorbs damage until broken. |
+| **Silence** | I92 D11 W23 C14 | Prevents target from casting spells briefly. |
+| **Divine Mending** | I97 D13 W16 C24 | Fourth cleric heal; upgrade over Vital Infusion. |
+| **Consecrate II** | S53 I16 D6 W57 C23 | Upgrade of Consecrate; +4 dmg per 1 Str and +4 healing per 1 Int. |
+| **Sacred Healing** | I119 D14 W22 C31 | Fifth cleric heal; upgrade over Divine Mending. |
+| **Holy Inferno** | I118 D11 W67 C19 | Stronger Holy Fire; does not stack; can be used on two targets. |
+| **Radiant Heal** | I149 D17 W26 C35 | Highest cleric heal. |
+| **Restore** | S6 I173 D19 W31 C41 | Heal target based on your mana. |
+| **Harden Body** | S108 I18 D14 W16 C31 | Prevent all damage while active; fizzle chance reduced by Int. |
 
-2.4.3 Cleric Build Purposes:
-Cleric is very cookie cutter so I will break down a few different builds here.
+</details>
 
-1. Healer build, primarily int/wis/con and a little dex.
-This is basically heals, buffs, utility.
-2. DPS build, primarily str/con/str. Generally used for soloing or odd groups lacking dps.
-This is basically imbue, consecrate, holy flame.
-3. PvP build, generally inline with healer build, specifically requiring more wis than standard.
-This is basically heals, buffs, utility, and holy inferno/holy fire.
-It additionally has a focus on extra hp (More CON)
+---
 
-2.5 Monk:
-Monks use gloves to fight with their fists.
-They are primarilay support & healer.
-What they can add to a complete group is unparalleled by any other source of support.
-Their healing is sufficient for the majority of content in almost all cases.
-Currently they are the 4th weakest damage dealer in the game. So besides early levels... Consider fire useless.
-At least for the time being.
+### 2.4.2 Building Cleric
+At low levels, stock wine from the inn immediately.  
+Invoke is not fully viable until the 20s/30s.
 
-2.5.1 Comprehensive Monk Spell List
-High Kick - D14 C5 - Generates chakra & deals minor damage to target.
-Chakra Punch - C21 - Spends chakra to deal minor damage.
-Chakra Strikes - S18 C8 - Spends chakra to buff swing damage for 60 seconds.
-Chakra Heal - C36 W9 I6 - Spends chakra to self-heal.
-Flaming Fist - S9 D24 C11 - Generates chakra and deals minor damage.
-Meditate - free - Regenerates spirit over time as long as you don't move or take damage.
-Summon Fire Spirit - S16 C9 I4 - Summons fire spirit and unlocks square aoe damage proc every 3 hits.
--Fire spirit exclusive-
-Searing Combo - S35 D8 C15 - 3 Hits + burn DoT per hit.
-Inferno Chakra - S52 D13 C21 I7 - Square AoE.
-Searing Combo II - S54 D11 C23 W5 - 4 hits, stronger burn, final hit splashes, upgrade of Searing Combo.
-Wildfire Stance - S69 D11 C26 W5 - Passive proc every 2 hits instead of 3.
-Immolation Link - S86 D14 C37 I9 - Damage shared between monk & ally, attackers suffer burn.
-Inferno Chakra II - S98 D15 C42 W7 I11 - Bigger radius & burning ground for 4s, Upgrade of inferno Chakra.
-Eruption - S113 D16 C49 W8 I12 - Massive aoe transforming ally into fire pillar for 8s.
--Fire spirit exclusive-
-Summon Water Spirit - D18 C11 - Summons water spirit and unlocks self heal proc every 3 hits.
--Water spirit exclusive-
-Flowing Strike - D34 C16 W7 - 2 hits + small heal per hit 10s aethers.
-Tidal Chakra - D42 C30 W13 I8 - 4-way attack, damages enemies, heals allies if on adjacent tiles, 25s aethers.
-Flowing Strike II - D54 C24 W13 - 3 hits, splashes to nearby ally, upgrade over Flowing Strike.
-Monsoon Aura - D57 C25 W15 - +20% damage aura for entire group.
-Riptide Guard - D47 C53 W18 I11 - Aborbs big hit on group member, triggers group heal, 45s aethers.
-Tidal Chakra II - D63 C42 W19 I13 - Wider AoE, now slows enemies, upgrade over Tidal Chakra, 25s aethers.
-Deluge - S9 D75 C58 W21 I14 - Large AoE heal & damage, 120s aethers.
--Water spirit exclusive-
-Summon Light Spirit - I19 C7 W5 - Summons light spirit & Heal lowest group member hp every 3 hits.
--Light spirit exclusive-
-Mending Palm - D5 C13 W9 I37 - Heals lowest group member hp with 8s aethers.
-Radiant Chakra - D8 C18 W14 I57 - Group burst heal and short heal over time, 25s aethers.
-Mending Palm II - D9 C12 W16 I67 - stronger healing and now shields, upgrade over mending palm, 8s aethers.
-Beacon - D11 C23 W21 I75 - If 3 or more party members below 75% passive 3 punch heal splits between all members.
-Sacrifice - D13 C42 W24 I93 - Sacrifices spirit to prevent a group member from dying.
-Radiant Chakra II - D14 C32 W27 I107 - Large party heal, now cleanses 1 debuff, replaces radiant chakra, 25s aethers.
-Resurrection - D16 C47 W31 I117 - Revives dead party member at 50% hp, 180s aethers.
--Light spirit exclusive-
+Start with a **Holy Fire** build (scales with Wis).  
+Once you get **Imbue I**, use it alongside Holy Fire — it increases DPS but reduces healing.
 
-Chakra Burst - C21 - Deals damage with fire & no spirit, heals self & deals damage if water, HoT on self if light
-Inner Peace - C16 W32 I7 - Spirit regeneration, doesn't break from attacking/moving.
-Spirit Swap - D28 C12 W24 - Swaps places with your spirit.
-Torpor - D8 C17 W48 - Sleeps target until damaged or 10s have elapsed, 30s aethers.
-Enlightenment - D11 C24 W62 I13 - Doubles spirit and chakra generation. 30s uptime, 90s aethers.
-Transcendence - S29 D29 C29 W29 I29 - Passive +20% to self/spirit damage and healing.
-Spirit Walk - D20 W20 C20 - Invisibility and movement speed buff for up to 6 tiles from body.
+Late 20s:  
+You can get **Consecrate I**, replacing Holy Fire.
 
+30s:  
+Focus on HP to survive.
 
+40s:  
+You can obtain **Consecrate II** and **Holy Flame**.  
+Survivability drops slightly, but DPS increases significantly.  
+At this point you can group with players in the 70s, making healer builds reasonable.
 
+DPS build (40s) scales with Str but falls off badly in the 50s.
 
-2.5.2 Building Monk
-Levels 1 to 35 it's ideal to go for a full fire build.
-The damage procs alone will wipe out everything up until about insect cave.
-Levels 35+ it's time to consider the reality. Damage falls off terribly and it's super hard to stay alive.
-So it's time to group up with a wizard, guardian, or ranger with a light monk build.
-Light monk = punch your spirit near your group members and the spirit does the rest. (Set to defensive mode)
-It's not as good as cleric, but it's pretty good considering how easy it is.
-Light monk + a dps to group with will be your best bet in the foreseeable future.
+Healer build is straightforward:  
+Invoke → Sanctuary → Purify → Highest heal available → Everything else.
 
-2.5.3 Monk Build Purposes:
-Light is primarily designed to heal and shield allies.
-Water is primarily designed to buff allies with 20% extra damage and sustain itself.
-Fire is primarily designed to deal damage.
+General rule of thumb:  
+“Can I cast 1 heal every 2 seconds for my entire Invoke aether?”  
+If yes, your mana pool is acceptable.
 
-By about level 60 it is easily possible to do a hybrid build of say Monsoon Aura + Radiant Chakra II.
-This slightly reduces healing potential but allows you to situationally hange between the damage buff and the ability to heal your allies.
-By around level 80 you an take a complete light build, monsoon, and the majority of the fire kit by building past transcendence str reqs.
+Notable utility:  
+Light Shield, Bless, Death Ward, Saving Grace, Bind, Silence, Dispel, Inspire.  
+These are not mandatory but very helpful.
 
-Overall there isn't much complexity to what they do where.
-It's more about what classes they are with.
+---
+
+### 2.4.3 Cleric Build Purposes
+Cleric is very cookie‑cutter, so here are the main builds:
+
+1. **Healer build** — Primarily Int/Wis/Con, some Dex.  
+   Heals, buffs, utility.
+
+2. **DPS build** — Primarily Str/Con/Str.  
+   Used for soloing or groups lacking DPS.  
+   Imbue, Consecrate, Holy Flame.
+
+3. **PvP build** — Similar to healer build but requires more Wis.  
+   Heals, buffs, utility, Holy Inferno/Holy Fire.  
+   Also focuses on extra HP (more Con).
 
 
-2.6 Group Strategy
-This section will define how classes function with other classes in different scenarios.
+## 2.5 Monk
+Monks use gloves to fight with their fists.  
+They are primarily support and healer.  
+What they add to a complete group is unparalleled by any other source of support.  
+Their healing is sufficient for the majority of content in almost all cases.  
+Currently they are the 4th weakest damage dealer in the game.  
+So besides early levels… consider fire useless, at least for the time being.
 
-2.6.1 Duo
-For duo I feel it is best to fixate on synergy & scaleability.
-Strategy itself is primarily about positioning and knowing your classes spells.
-After synergy is established I will make notes about each cave.
+---
 
-Strong synergy-
+### 2.5.1 Comprehensive Monk Spell List
+<details>
+<summary><b>Click to expand Monk Spells</b></summary>
 
-1. Ranger + Ranger
-At a high level, it's possible for 2 rangers to outperform a cleric + guardian.
-The synergy in question requires good coordination between rangers.
-It starts out well because objectives align and damage is always double compared to soloing.
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **High Kick** | D14 C5 | Generates chakra and deals minor damage. |
+| **Chakra Punch** | C21 | Spends chakra to deal minor damage. |
+| **Chakra Strikes** | S18 C8 | Spends chakra to buff swing damage for 60 seconds. |
+| **Chakra Heal** | C36 W9 I6 | Spends chakra to self‑heal. |
+| **Flaming Fist** | S9 D24 C11 | Generates chakra and deals minor damage. |
+| **Meditate** | Free | Regenerates spirit over time if you don’t move or take damage. |
+| **Summon Fire Spirit** | S16 C9 I4 | Summons fire spirit; unlocks square AoE proc every 3 hits. |
 
-2. Cleric + Guardian
-This is the easiest and most capable pairing in the game.
-It has a slow/safe start and has a tremendous dps potential at higher levels.
+**Fire Spirit Exclusive**
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Searing Combo** | S35 D8 C15 | 3 hits + burn DoT per hit. |
+| **Inferno Chakra** | S52 D13 C21 I7 | Square AoE. |
+| **Searing Combo II** | S54 D11 C23 W5 | 4 hits, stronger burn, final hit splashes; upgrade of Searing Combo. |
+| **Wildfire Stance** | S69 D11 C26 W5 | Passive proc every 2 hits instead of 3. |
+| **Immolation Link** | S86 D14 C37 I9 | Damage shared between monk and ally; attackers suffer burn. |
+| **Inferno Chakra II** | S98 D15 C42 W7 I11 | Larger radius; burning ground for 4s; upgrade of Inferno Chakra. |
+| **Eruption** | S113 D16 C49 W8 I12 | Massive AoE; transforms ally into fire pillar for 8s. |
 
-3. Monk + Wizard
-For the same reasons as ranger. Auto healing is enough.
-A tank that provides you more damage is unbeatable for the slot.
-Wizard at absolute best with this pairing actually outscales ranger with the same conditions.
+**Water Spirit Exclusive**
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Summon Water Spirit** | D18 C11 | Summons water spirit; unlocks self‑heal proc every 3 hits. |
+| **Flowing Strike** | D34 C16 W7 | 2 hits + small heal per hit; 10s aethers. |
+| **Tidal Chakra** | D42 C30 W13 I8 | 4‑way attack; damages enemies; heals allies on adjacent tiles; 25s aethers. |
+| **Flowing Strike II** | D54 C24 W13 | 3 hits; splashes to nearby ally; upgrade of Flowing Strike. |
+| **Monsoon Aura** | D57 C25 W15 | +20% damage aura for entire group. |
+| **Riptide Guard** | D47 C53 W18 I11 | Absorbs big hit on group member; triggers group heal; 45s aethers. |
+| **Tidal Chakra II** | D63 C42 W19 I13 | Wider AoE; slows enemies; upgrade of Tidal Chakra; 25s aethers. |
+| **Deluge** | S9 D75 C58 W21 I14 | Large AoE heal and damage; 120s aethers. |
 
-4. Monk + Ranger
-For rangers, auto healing is enough.
-But that isn't the end of it, monks can block you in and tank for you.
-They can give you a 20% damage buff and sustain themselves.
-For general duo situations this is the closest competing rival cleric+guardian has.
+**Light Spirit Exclusive**
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Summon Light Spirit** | I19 C7 W5 | Summons light spirit; heals lowest HP group member every 3 hits. |
+| **Mending Palm** | D5 C13 W9 I37 | Heals lowest HP group member; 8s aethers. |
+| **Radiant Chakra** | D8 C18 W14 I57 | Group burst heal + short HoT; 25s aethers. |
+| **Mending Palm II** | D9 C12 W16 I67 | Stronger healing; now shields; upgrade of Mending Palm; 8s aethers. |
+| **Beacon** | D11 C23 W21 I75 | If 3+ party members below 75%, passive 3‑punch heal split between all. |
+| **Sacrifice** | D13 C42 W24 I93 | Sacrifices spirit to prevent a group member from dying. |
+| **Radiant Chakra II** | D14 C32 W27 I107 | Large party heal; cleanses 1 debuff; replaces Radiant Chakra; 25s aethers. |
+| **Resurrection** | D16 C47 W31 I117 | Revives dead party member at 50% HP; 180s aethers. |
 
+**General Monk Spells**
+| Spell Name | Requirements | Explanation |
+| :--- | :--- | :--- |
+| **Chakra Burst** | C21 | Fire: damage; Water: damage + self‑heal; Light: HoT on self. |
+| **Inner Peace** | C16 W32 I7 | Spirit regeneration; does not break from attacking/moving. |
+| **Spirit Swap** | D28 C12 W24 | Swap places with your spirit. |
+| **Torpor** | D8 C17 W48 | Sleeps target until damaged or 10s pass; 30s aethers. |
+| **Enlightenment** | D11 C24 W62 I13 | Doubles spirit and chakra generation; 30s uptime; 90s aethers. |
+| **Transcendence** | S29 D29 C29 W29 I29 | Passive +20% to self/spirit damage and healing. |
+| **Spirit Walk** | D20 W20 C20 | Invisibility + movement speed buff for up to 6 tiles from body. |
 
-Moderate synergy-
+</details>
 
-1. Guardian + Ranger
-Defensive mode tank taunting everything + a strong dps.
-No healer needed and just pure more for both sides.
+---
 
-2. Cleric + Ranger
-Rangers gets one great thing out of clerics, inspire.
-Inspire allows rangers to use their resources exhaustively in small bursts.
-Very useful for speeding up room clears in earlier caves.
+### 2.5.2 Building Monk
+Levels 1–35:  
+Full fire build is ideal. Damage procs alone wipe everything up to Insect Cave.
 
-3. Monk + Guardian
-Pretty solid at high levels, notably worse at lower levels.
+Levels 35+:  
+Damage falls off badly and survival becomes difficult.  
+Time to group with a wizard, guardian, or ranger using a **light monk** build.
 
-4. Cleric + Wizard
-Clerics are a great safety net for wizards.
-As wizards lack the ability to restore their mana if they are fully surrounded.
-On top of saving them a lot of mana by healing them as well.
-This can make performing at a high level on wizard much easier.
-For many this can definitely mean higher dps.
+Light monk = punch your spirit near group members; the spirit does the healing (set spirit to defensive mode).  
+Not as strong as cleric, but extremely easy and effective.
 
-Everything else is likely not very good. But don't let that stop you from doing what you want or what is necessary.
+Light monk + a DPS partner is your best long‑term option.
 
-Notable Caves- 
-Bear boss room. Likely need a healer for this and at least 4k hp.
-Wolf boss room. Doable with any duo by kiting and aggro shifting.
-Swamp instance. I don't suggest trying it with any pairing besides cleric + guardian at level 75+
-Everything else is probably simple enough.
+---
 
-2.6.2 Trio:
-There's an extremely simple way to tier it.
-Buff = Monk
-DPS(Tank) = Late game Guardian
-Heal = Monk/Cleric
-Tank = Guardian/Monk
-Dps = Wizard/Guardian/Ranger
+### 2.5.3 Monk Build Purposes
+**Light** — Designed to heal and shield allies.  
+**Water** — Designed to buff allies with +20% damage and sustain itself.  
+**Fire** — Designed to deal damage.
 
-DPS(Tank) + DPS + Buff      = S+ (General hunting)
-DPS(Tank) + DPS + Heal     = S+ (Of-level or instance caves)
-DPS + DPS + DPS               = S- (General hunting)
-Tank + DPS + Heal               = A+ (General hunting & Instance caves)
-DPS + DPS + Tank               = A- (General hunting)
-Buff + Heal + DPS                = B+ (General hunting)
-Buff + Heal + Tank                = B- (General hunting & Instance caves)
-Tank + Tank + DPS               = C+ (General hunting)
-Tank + Tank + Tank               = D- (General hunting)
-Any combos that have only heal, and/or buff, are F- in everything.
-3 Clerics can work, even 2 clerics + a water monk is capable of clearing a room in a low level cave.
-Fact is, it's so far beneath everything else, it's just that bad.
-Fire Monk has less dps than a solo guardian in defensive stance.
-Cleric has even less dps than fire monks. The rest is pretty simple to figure out.
+By level 60, hybrid builds become possible (e.g., Monsoon Aura + Radiant Chakra II).  
+This slightly reduces healing but allows switching between damage buff and healing.
 
+By level 80, you can take a full light build, Monsoon, and most of the fire kit by building past Transcendence Str requirements.
 
-2.6.3 Large Group
-A "full group" is generally a team of 5.
-But we can have much larger teams.
-So to start we will theorize optimal teams of 5.
-
-Guardian + Ranger + Wizard + Cleric + Water monk
-(At higher levels this is the undisputed most powerful team of 5.
-
-Guardian + Wizard + Wizard + Cleric + Water monk
-(Possible to out scale the above team including ranger if both wizards are very skilled players.)
-
-Guardian + Ranger + Ranger + Cleric + Water monk
-(Not as great as it sounds, unless the rangers have great team coordination.)
-
-Guardian + Cleric + 3 DPS
-(This is the most common ragtag team which is pretty standard & decent.)
-
-Keep in mind, any given two dps + water monk will do significantly more dps than a 3rd dp.
-Pretty much anything else is suboptimal and wastes slots.
-Sometimes a suboptimal team is necessary, do what you must.
-
-For larger groups, generally the rules are simple.
-Only 1 water monk is necessary to buff everybody.
-Only 1 tank is necessary to keep everybody good.
-Only 1 healer is required to heal 1 tank, others should fend for themselves.
-This means that more dps = purely more rooms your team can cycle = more exp/hour multiplier.
-Now this doesn't mean you should turn down other monks, tanks, and healers.
-It just means that in theory optimization suggests more monks, tanks, and healers provides nothing.
+Overall, monk complexity is low — effectiveness depends more on group composition than rotation.
 
 
-3.0 Crafting Systems:
-This section will attempt to elaborate every crafting in full.
 
-3.1 Mining & Smithing:
-To begin mining ores you must buy a pickaxe from the blacksmith.
-Ores are located in the following places:
-t1- rooms 1-7 in crypts
-t2- Fox, Insect, rooms 8-11 in crypts
-t3- Boar, rooms 12-15 in crypts
-t4- Rooms 16+ in crypts
+## 2.6 Group Strategy
+This section defines how classes function with other classes in different scenarios.
 
-You must smelt ores at the blacksmith into bars to be able to create items.
+---
+
+## 2.6.1 Duo
+For duo, synergy and scalability matter most.  
+Strategy is primarily about positioning and knowing your class spells.  
+After synergy is established, notes are provided for specific caves.
+
+### Strong Synergy
+
+**1. Ranger + Ranger**  
+At high level, two rangers can outperform cleric + guardian.  
+Requires strong coordination.  
+Starts strong because objectives align and damage is doubled compared to soloing.
+
+**2. Cleric + Guardian**  
+Easiest and most capable pairing.  
+Slow/safe start with tremendous DPS potential at higher levels.
+
+**3. Monk + Wizard**  
+Auto‑healing is enough.  
+A tank that increases your damage is unbeatable for the slot.  
+Wizard at peak performance with this pairing can outscale ranger.
+
+**4. Monk + Ranger**  
+Auto‑healing is enough for ranger.  
+Monk can block, tank, give 20% damage buff, and sustain itself.  
+Closest rival to cleric + guardian for general duo play.
+
+---
+
+### Moderate Synergy
+
+**1. Guardian + Ranger**  
+Defensive‑mode tank taunting everything + strong DPS.  
+No healer needed.
+
+**2. Cleric + Ranger**  
+Ranger benefits greatly from **Inspire**, enabling burst resource usage.  
+Speeds up early cave clears.
+
+**3. Monk + Guardian**  
+Solid at high levels, weaker at low levels.
+
+**4. Cleric + Wizard**  
+Cleric is a strong safety net.  
+Wizard cannot restore mana when fully surrounded; cleric healing saves mana and increases DPS consistency.
+
+---
+
+### Low Synergy / Everything Else
+Most other pairings are not very good, but still playable if needed.
+
+---
+
+### Notable Caves
+**Bear boss room** — Likely need a healer and at least 4k HP.  
+**Wolf boss room** — Doable with any duo via kiting and aggro shifting.  
+**Swamp instance** — Recommended only for cleric + guardian at level 75+.  
+Everything else is simple enough.
+
+---
+
+## 2.6.2 Trio
+A simple tiering system:
+
+**Buff** = Monk  
+**DPS (Tank)** = Late‑game Guardian  
+**Heal** = Monk / Cleric  
+**Tank** = Guardian / Monk  
+**DPS** = Wizard / Guardian / Ranger
+
+### Trio Tier List
+
+| Composition | Tier | Notes |
+| :--- | :--- | :--- |
+| **DPS(Tank) + DPS + Buff** | S+ | General hunting |
+| **DPS(Tank) + DPS + Heal** | S+ | Of‑level or instance caves |
+| **DPS + DPS + DPS** | S‑ | General hunting |
+| **Tank + DPS + Heal** | A+ | General hunting & instances |
+| **DPS + DPS + Tank** | A‑ | General hunting |
+| **Buff + Heal + DPS** | B+ | General hunting |
+| **Buff + Heal + Tank** | B‑ | General hunting & instances |
+| **Tank + Tank + DPS** | C+ | General hunting |
+| **Tank + Tank + Tank** | D‑ | General hunting |
+| **Heal/Buff only comps** | F‑ | Non‑functional |
+
+Additional notes:  
+Three clerics can clear low‑level rooms.  
+Two clerics + water monk can also clear.  
+But these are far below optimal.  
+Fire monk has less DPS than a solo guardian in defensive stance.  
+Cleric has even less DPS than fire monk.
+
+---
+
+## 2.6.3 Large Group
+A “full group” is generally 5 players, but larger groups are possible.  
+Below are optimal 5‑player teams.
+
+### Optimal Teams of 5
+
+**1. Guardian + Ranger + Wizard + Cleric + Water Monk**  
+Undisputed strongest team at higher levels.
+
+**2. Guardian + Wizard + Wizard + Cleric + Water Monk**  
+Can outscale the above if both wizards are highly skilled.
+
+**3. Guardian + Ranger + Ranger + Cleric + Water Monk**  
+Strong only if rangers have excellent coordination.
+
+**4. Guardian + Cleric + 3 DPS**  
+Most common “ragtag” team; standard and decent.
+
+---
+
+### General Rules for Larger Groups
+- Only **1 water monk** is needed to buff everyone.  
+- Only **1 tank** is needed to keep the group safe.  
+- Only **1 healer** is required to heal the tank; others should self‑sustain.  
+- More DPS = more rooms cleared = higher EXP/hour multiplier.
+
+This does **not** mean you should reject extra monks, tanks, or healers.  
+It simply means that, in theory, additional support roles do not increase group output.
+
+
+
+## 3.0 Crafting Systems
+This section elaborates every crafting system in full.
+
+---
+
+## 3.1 Mining & Smithing
+To begin mining ores, you must buy a pickaxe from the blacksmith.
+
+### Ore Locations
+| Tier | Ores | Locations |
+| :--- | :--- | :--- |
+| **T1** | Small Iron | Rooms 1–7 in Crypts |
+| **T2** | Large Iron | Fox, Insect, Rooms 8–11 in Crypts |
+| **T3** | ? | Boar, Rooms 12–15 in Crypts |
+| **T4** | ? | Rooms 16+ in Crypts |
+
+You must smelt ores at the blacksmith into bars before crafting items.  
 Smithing is performed at the blacksmith.
-You can craft (guardian)armor & helms here, you can melt down related gear from monsters here.
-Blacksmithing allows you to enhance guardian armor, swords/daggers, and helmets.
-You can also craft (guardian) boots here.
-Higher level crafts require powdered steel, which you can buy from the blacksmith under misc. 
 
-3.2 Weaving & Tailor:
+You can craft guardian armor and helms here, and melt down related gear from monsters.  
+Blacksmithing allows enhancement of guardian armor, swords/daggers, and helmets.  
+You can also craft guardian boots here.
+
+Higher‑level crafts require **powdered steel**, purchasable from the blacksmith under Misc.
+
+---
+
+## 3.2 Weaving & Tailor
 To begin weaving, you must first collect furs.
-Furs are located at the following locations:
-t1(Fox fur)- Fox cave
-t2(Bear fur)- Bear cave
-t3(Wolf fur)- Wolf Cave
 
-Weaving can be done at the tailor, fur must be weaved into cloth before you can do tailoring.
-Tailor allows you to create monk/wizard/cleric armor primarily.
-It also allows you to create light (Monk/ranger) & cloth boots (Wizard/cleric).
-You can enhance all of these things and monk gloves (weapon).
-Additionally, you can buy radiant thread from the tailor under misc. (Required for higher level crafts.)
+### Fur Locations
+| Tier | Fur Type | Locations |
+| :--- | :--- | :--- |
+| **T1** | Fox Fur | Fox Cave |
+| **T2** | Bear Fur | Bear Cave |
+| **T3** | Wolf Fur | Wolf Cave |
 
-3.3 Gemcutting & Jewelcrafting:
-The primary purpose of gemcutting/jewelcrafting is crafting & enhancing rings & necklaces.
+Weaving is done at the tailor.  
+Fur must be woven into cloth before tailoring.
+
+The tailor allows creation of monk/wizard/cleric armor.  
+It also allows crafting of:
+
+- Light boots (Monk/Ranger)  
+- Cloth boots (Wizard/Cleric)
+
+You can enhance all of these items and monk gloves (weapon).  
+Higher‑level crafts require **radiant thread**, purchasable from the tailor under Misc.
+
+---
+
+## 3.3 Gemcutting & Jewelcrafting
+The primary purpose of gemcutting/jewelcrafting is crafting and enhancing **rings and necklaces**.  
 Gemcutting is also a great source of profit if you opt out of jewelcrafting.
-To begin gemcutting, one must first obtain gems.
-gems are obtained by the following methods:
 
-t1(Jades)- Fox, Insect, rooms 1-3 in boar, and crypts rooms 9-13
-t2(Emeralds)- Rooms 4-6 in Boar, Bear cave, Crypt rooms 14-19
-t3(Rubies)- Wolf, Crypt room 20
-t4(Sapphires)- Swamp
+To begin gemcutting, you must obtain gems.
 
+### Gem Locations
+| Tier | Gem Type | Locations |
+| :--- | :--- | :--- |
+| **T1** | Jades | Fox, Insect, Boar Rooms 1–3, Crypts Rooms 9–13 |
+| **T2** | Emeralds | Boar Rooms 4–6, Bear Cave, Crypts Rooms 14–19 |
+| **T3** | Rubies | Wolf Cave, Crypt Room 20 |
+| **T4** | Sapphires | Swamp |
 
-3.4 Woodcutting? Carpentry? (TBD/A)
+---
+
+## 3.4 Woodcutting / Carpentry (TBD/A)
 Not currently available in the game.
 
-3.5 Enhancement, Stats, Tips
-Enhancement rate for every craft is increased by material tier & crafting rank.
-It is generally best to only enhance what you're willing to lose.
-2 durability crits = an item is borderline unusable.
-An example of this is multiple swamp swords ending up below 10% durability permanently.
-This makes the repair cost of the weapon tremendously higher after only about 20 minutes of hunting.
+---
 
-There is NO shatter chance until trying to +4 or higher.
+## 3.5 Enhancement, Stats, Tips
+Enhancement rate for every craft increases with **material tier** and **crafting rank**.
 
-Generally you should aim to stock multiple sets of high stat roll gear before enhancing.
+It is generally best to only enhance items you are willing to lose.
 
+Two durability crits make an item borderline unusable.  
+Example: multiple swamp swords ending below 10% durability permanently.  
+This causes repair costs to skyrocket after only ~20 minutes of hunting.
 
-4.0 Loose ends:
-This section will attempt to address the remaining things people might want to know.
+There is **no shatter chance** until attempting **+4 or higher**.
 
-4.1 Bugs & Suggestions:
-It is best to report bugs & make suggestions in the discord forum threads.
-When reporting bugs it helps a lot to replicate and properly document the steps of how the bug can be replicated.
-Some bugs are tricky and require more poking & prodding than others. So reporting things you find difficult is ok.
-In some cases it is truly just good enough to make something known, it can easily make others curious enough to also test it or talk about it.
-
-4.2 FAQ:
-Question- Is dual logging / multiboxing is allowed.
-Answer- Yes.
-
-Question- Can we sell gear dropped by monsters anywhere?
-Answer- No.
-
-Question- What's the best way to make gold?
-Answer- Sell your drops, cut your gems, sell those too.
-
-Question- How do I send a message in the game?
-Answer- ' is the default hotkey and can be changed to enter in the keybind settings.
-
-Question- Will our progress be wiped when alpha ends?
-Answer- Yes, but testers who participate heavily will be rewarded going into beta.
-
-Question- How do I unequip gear?
-Answer- Default hotkey "C" to open character panel, double click the gear.
-
-Question- How do we respect/reset stats.
-Answer- Messenger npc, follow the npcs instructions. Start respect ~> say next in chat ~> allocate 3 points ~> repeat steps 2 & 3 to your current level.
-
-Question- When do minigames happen?
-Answer- When a GM opens them.
+Generally, you should stock multiple sets of high‑stat‑roll gear before enhancing.
 
 
-4.3 Minigames:
-Currently there are 6 minigames on ETK2.
+
+
+## 4.0 Loose Ends
+This section addresses remaining things players may want to know.
+
+---
+
+## 4.1 Bugs & Suggestions
+It is best to report bugs and make suggestions in the Discord forum threads.
+
+When reporting bugs, it helps greatly to replicate and document the steps required to reproduce the issue.  
+Some bugs are tricky and require more testing, so reporting difficult or unclear issues is still helpful.
+
+Sometimes simply making something known is enough — others may test it or discuss it further.
+
+---
+
+## 4.2 FAQ
+
+**Question — Is dual logging / multiboxing allowed?**  
+Answer — Yes.
+
+**Question — Can we sell gear dropped by monsters anywhere?**  
+Answer — No.
+
+**Question — What’s the best way to make gold?**  
+Answer — Sell your drops, cut your gems, sell those too.
+
+**Question — How do I send a message in the game?**  
+Answer — `'` is the default hotkey and can be changed to Enter in keybind settings.
+
+**Question — Will our progress be wiped when alpha ends?**  
+Answer — Yes, but testers who participate heavily will be rewarded going into beta.
+
+**Question — How do I unequip gear?**  
+Answer — Default hotkey **C** to open character panel, then double‑click the gear.
+
+**Question — How do we respec/reset stats?**  
+Answer — Messenger NPC. Follow the NPC’s instructions:  
+Start respec → say **next** in chat → allocate 3 points → repeat until your current level.
+
+**Question — When do minigames happen?**  
+Answer — When a GM opens them.
+
+---
+
+## 4.3 Minigames
+There are currently **6 minigames** in ETK2:  
 Paintball, Elixir, Sumo, Pillowfight, Deathball, and Carnage.
-Within these games you can use /a message or /arena message to type global chats to everyone at the event.
-You can also use /t message or /team message to type messages only your team can see.
 
+Within these games you can use:
 
+- `/a message` or `/arena message` — global chat to everyone at the event  
+- `/t message` or `/team message` — chat only visible to your team  
 
-Paintball - A team oriented minigame where the objective is to shoot the other teams players, while avoiding getting shot.
-Players are placed into teams based on winrate % and the match begins on opposite corners of the map.
-You will receive a paintball gun in your inventory, which when equipped allows you to shoot other players during the minigame to dye them.
-Putting a dye on a player in paintball = killing them. Landing a shot is the key to the objective.
-You will notice "fog" or "shadowsights" which indicate a synthetic line of sight. This is one of the main features of paintball.
+---
 
-When one team has no players left, a round ends. The team who had players left takes a round point.
-The end objective is winning 3 rounds AKA best of 5.
-There are ammo pickups in the center of the maps.
+### Paintball
+Team‑oriented minigame where the objective is to shoot the opposing team while avoiding being shot.
 
-Additionally. there is a spectator mode when you have died. Which lets you follow another person on your team to see how the match is proceeding.
-This is activated automatically the moment you die.
+Players are placed into teams based on winrate %, starting in opposite corners of the map.  
+You receive a paintball gun which must be equipped. Shooting dyes players — dye = death.
 
-Elixir - A team oriented minigame where the objective is to take the enemy flag and bring it to the center of the map.
-When inside the elixir arena map you will receive a crossbow which must be equipped to properly participate.
-When you shoot at/are shot by an enemy it dyes the player shot, if you move like this, you burn, AKA sidelining you for the round.
-If an ally shoots a dyed player, it removes the dye, allowing them to move again.
-If you step on your own flag tile, you die. If you step on the middle without the enemy flag, you die.
-There is no hand the npc an acorn or anything otherwise weird. Besides what is stated already, it's an elixir war.
+“Fog” or “shadowsights” indicate synthetic line of sight.
 
-Sumo -  A team oriented minigame where the objective is to push the enemy teams players into the water, while avoiding the same fate.
-You receive gloves that when equipped makes your punch push enemy players 1 tile.
-There are various buffs players can pick up around the map.
-Cogwheel? Revives player who has been sidelined on your team.
-Boots - Dash when you swing.
-Spear - Hit 2 tiles ahead
-Gloves - Push 2 tiles? 
-Sword - Push corners?
+A round ends when one team has no players left.  
+First team to win 3 rounds (best of 5) wins.
 
-Pillowfight - A free-for-all minigame where the objective is to get 15 kills.
-When you enter you will have a pillow in your inventory which should be equipped.
-There is a 10 minute warmup until the doors close, so you can actually practice before the match.
-Generally, hit people with your pillow, don't get hit by other players pillows.
+Ammo pickups appear in the center of the map.
 
-There are 4 rewards; first place (25%), second place (20%), third place (15%), and everybody else (10%). (I think?)
+Spectator mode activates automatically when you die, letting you follow teammates.
 
+---
 
-Deathball -  A PvP soccer minigame where the objective is to push the ball into correct goal.
+### Elixir
+Team‑oriented capture‑the‑flag minigame.
 
+Inside the arena you receive a crossbow which must be equipped.  
+Shooting or being shot dyes players — dyed players cannot move (burn).  
+Allies can remove dye by shooting dyed teammates.
 
-Carnage - Classic team PvP
+Stepping on your own flag tile = death.  
+Stepping on the center tile without the enemy flag = death.
 
+No extra mechanics — it is a straightforward elixir war.
 
-4.4 Additional Resources:
-Spell req calcs by Nova:
-Main site- https://etkskillcalc.com/
-Alternative site- https://etk2skillcalc.netlify.app/
+---
 
-TNL calc by Adv:
+### Sumo
+Team‑oriented minigame where the objective is to punch enemies into the water.
+
+You receive gloves that push enemies 1 tile.  
+Buff pickups include:
+
+- **Cogwheel** — Revives a sidelined teammate  
+- **Boots** — Dash when you swing  
+- **Spear** — Hit 2 tiles ahead  
+- **Gloves** — Push 2 tiles  
+- **Sword** — Push corners  
+
+---
+
+### Pillowfight
+Free‑for‑all minigame where the objective is to reach **15 kills**.
+
+You receive a pillow which must be equipped.  
+There is a 10‑minute warmup before doors close.
+
+Hit players with your pillow; avoid being hit.
+
+Rewards (approximate):  
+1st (25%), 2nd (20%), 3rd (15%), everyone else (10%).
+
+---
+
+### Deathball
+PvP soccer minigame where the objective is to push the ball into the correct goal.
+
+---
+
+### Carnage
+Classic team PvP.
+
+---
+
+## 4.4 Additional Resources
+
+**Spell requirement calculators by Nova:**  
+Main site — https://etkskillcalc.com/  
+Alternative — https://etk2skillcalc.netlify.app/
+
+**TNL calculator by Adv:**  
 https://etk2tnlcalc.netlify.app/
-If we require more depth to calculator tools, I will work with Nova to combine resources.
+
+If more depth is needed, Nova and I may combine resources.
+
+
