@@ -62,8 +62,8 @@ Toggle specific UI and control features:
 
 | Setting | Effect |
 | :--- | :--- |
-| **Show Helm** | **On:** Helmet is shown. **Off:** Character hair is shown. |
-| **KB Area Target**| **Off:** Use mouse to target area spells. **On:** Use keyboard to center area spells (e.g., Volley). |
+| **Show Helm** | **Off:** Character hair is shown. **On:** Helmet is shown.  |
+| **KB Area Target**| **Off:** Use mouse to target area spells.  **On:** Use keyboard to center area spells.  (e.g., Volley). |
 | **FPS Counter** | **Off:** Hidden. **On:** Displays FPS and Ping. **Debug:** Full details. |
 | **Click Movement** | When **On**, move by clicking instead of using keybinds. |
 
@@ -139,7 +139,7 @@ The first thing you should do upon starting the game is the **Tutor Quest**.
 | **CON** | Influences HP/Vita per level. Effectiveness is higher when bought at lower levels (e.g., Level 2-6 vs Level 45-50). |
 | **WIS** | Influences MP for Wizards and Clerics. Scales Zap crit chance for Wizards. |
 | **INT** | Purpose varies by class. |
-| **STR** | 4 points = 1 damage. Scales hit rate for melee. |
+| **STR** | 3 points = 1 damage. Scales hit rate for melee. |
 | **DEX** | Scales crit/crit damage for all and hit rate for bows. |
 
 ---
