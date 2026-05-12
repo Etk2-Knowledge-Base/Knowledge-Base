@@ -835,7 +835,7 @@ There is **no shatter chance** until attempting **+4 or higher**.
 
 Generally, you should stock multiple sets of high‑stat‑roll gear before enhancing.
 
-
+---
 
 
 ## 4.0 Loose Ends
@@ -970,6 +970,7 @@ Alternative — https://etk2skillcalc.netlify.app/
 **TNL calculator by Adv:**  
 https://etk2tnlcalc.netlify.app/
 
-If more depth is needed, Nova and I may combine resources.
+If more depth is needed, I may contact Nova to pitch in and combine resources.
+---
 
-
+_Last updated: 5/12/2026 — ETK2 Alpha Knowledge Base v1.0_
