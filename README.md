@@ -605,7 +605,8 @@ Levels 35+:
 Damage falls off badly and survival becomes difficult.  
 Time to group with a wizard, guardian, or ranger using a **light monk** build.
 
-Light monk = punch your spirit near group members; the spirit does the healing (set spirit to defensive mode).  
+Light monk = punch your spirit near group members(set spirit to defensive or passive mode).<br>
+Punching does the majority of the healing every 3 hits, spirit uses its own heals automatically in tandem.<br>
 Not as strong as cleric, but extremely easy and effective.
 
 Light monk + a DPS partner is your best long‑term option.
