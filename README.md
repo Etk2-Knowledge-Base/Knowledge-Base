@@ -29,8 +29,8 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [4.1 Bugs & Suggestions](#41-bugs--suggestions)
     * [4.2 FAQ](#42-faq)
     * [4.3 Minigames](#43-minigames)
-    * [4.4 Additional Resources](#44-additional-resources)
-
+    * [4.4 Cave Chart](#44-cave-chart)
+    * [4.5 Additional Resources](#45-additional-resources)
 ---
 
 ## 1.0 Introduction to the ETK2 Alpha Test
@@ -975,7 +975,89 @@ Classic team PvP.
 
 ---
 
-## 4.4 Additional Resources
+
+## 4.4 Cave Chart
+
+### Crypt
+
+| Room        | Level | Monsters              |
+| :---------- | :---- | :-------------------- |
+| Room 1      | 1     | Rat                   |
+| Rooms 2–3   | 5     | Rat                   |
+| Rooms 4–5   | 10    | Skeleton              |
+| Rooms 6–7   | 15    | Cursed Skeleton       |
+| Rooms 8–9   | 20    | Resilient Skeleton    |
+| Rooms 10–11 | 25    | Skeletal Knight       |
+| Rooms 12–13 | 30    | Skeletal Captain      |
+| Room 14     | 35    | Skeletal Emissary     |
+| Room 15     | 40    | Skeletal Guardian     |
+| Room 16     | 45    | Burning Skeleton      |
+| Room 17     | 50    | Haunting Skeleton     |
+| Room 18     | 55    | Skeletal Terror       |
+| Room 19     | 60    | Radiant Skeleton      |
+| Room 20     | 65    | Vicious Skeleton      |
+
+---
+
+### Fox
+
+| Room        | Level | Monsters                                  |
+| :---------- | :---- | :---------------------------------------- |
+| Rooms 1–2   | 15    | Brown Fox / Sun Fox / Red Fox            |
+| Rooms 3–4   | 20    | Black Fox / Red Fox / Sun Fox            |
+| Rooms 5–6   | 25    | Old Wolf / Black Wolf                    |
+
+---
+
+### Mantis
+
+| Room                    | Level | Monsters                                  |
+| :---------------------- | :---- | :---------------------------------------- |
+| Non‑boss rooms          | 25    | Centipede / Scorpion / Large Spider      |
+| Boss rooms              | 30    | Mantis / Scorpion                        |
+
+---
+
+### Boar
+
+| Room              | Level | Monsters                                  |
+| :---------------- | :---- | :---------------------------------------- |
+| Rooms 1–3         | 30    | Piglet / Pig / Snake                      |
+| Rooms 4–5         | 35    | Mature Pig / Mature Snake                 |
+| Room 6 (Boss)     | 40    | Mature Pig / Mature Snake / Warthog      |
+
+---
+
+### Bear
+
+| Room                          | Level | Monsters                                                  |
+| :---------------------------- | :---- | :-------------------------------------------------------- |
+| Rooms 1, 2, 3 & 7             | 35    | Small Bear                                                |
+| Other rooms                   | 40    | Rabid Bear / Large Bear                                   |
+| “Beware of LR” (Boss room)    | 40    | Rabid Bear / Large Bear / Wilderness Spirit (SC, HF)     |
+
+---
+
+### Wolf
+
+| Area          | Level    | Monsters                                              |
+| :------------ | :------- | :--------------------------------------------------- |
+| Smooth Wolves | 40–45    | Dire Wolf / Blood Wolf                               |
+| Rabid Wolves  | 45–50    | Vicious Wolf / Enraged Wolf                          |
+| Alpha’s Peak  | 45–50    | Vicious Wolf / Enraged Wolf / Boss (hits very hard, can SC) |
+
+---
+
+### Swamp Instance
+
+| Area            | Level | Monsters |
+| :-------------- | :---- | :------- |
+| Swamp Instance  | 50    | —        |
+
+
+
+---
+## 4.5 Additional Resources
 
 **Spell requirement calculators by Nova:**  
 Main site — https://etkskillcalc.com/  
