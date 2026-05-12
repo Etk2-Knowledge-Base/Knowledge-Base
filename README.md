@@ -857,6 +857,14 @@ Some bugs are tricky and require more testing, so reporting difficult or unclear
 
 Sometimes simply making something known is enough — others may test it or discuss it further.
 
+When making suggestions, please be sure it hasn't already been discussed by backsearching discord.<br>
+It isn't always apparent when something is valid/reasonable, but try to use reasoning when making suggestions.<br>
+If it sounds overpowered / troll / impossible, it probably is.<br>
+
+Don't let this stop you from speaking your mind if it entails valid criticism.<br>
+Feedback loops from other parties can create new ideas.<br>
+This means an idea isn't worthless by default, sometimes it just needs another angle.<br>
+
 ---
 
 ## 4.2 FAQ
