@@ -1,7 +1,7 @@
 # Knowledge-Base
-A nearly comprehensive compendium pertaining to ETK2 Alpha.
-This is the complete, community‑maintained knowledge base for ETK2 Alpha.  
-It covers classes, crafting, minigames, group strategy, and progression.
+A nearly comprehensive compendium pertaining to ETK2 Alpha.<br>
+This is the complete, community‑maintained knowledge base for ETK2 Alpha.<br>
+It covers classes, crafting, minigames, group strategy, and progression.<br>
 
 # ETK2 Alpha Test Knowledge Base
 
