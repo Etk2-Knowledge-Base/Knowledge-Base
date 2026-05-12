@@ -94,6 +94,8 @@ Under keybinds you will find you can change the majority of hotkeys to whatever 
 I highly suggest using the keybinds section as a reference and setting it up the way that is comfortable for you.
 
 I will list all the hotkeys here with explanations:
+<details>
+<summary><b>Click to expand hotkey list</b></summary>
 Toggle Names - Disables/enables the overhead text which displays players names.
 Toggle Inventory - Opens inventory/changes between inventory view modes. 
 Toggle Spells - Opens spell panel.
@@ -129,7 +131,7 @@ Toggle Object Transparency - Toggles ability to see through objects.
 Action Slot 1-19 - Hotkeys for your spells assigned to the action bar across the bottom of your screen.
 Action Bar row Up/Down - Changes which action bar you have active. Forward/Backwards
 Emotes - Besides by default being ctrl+ Letter, it's exactly the same as NTK letter-wise. So I will omit detailing every emote.
-
+</details>
 
 1.2 Starting Out:
 The first thing you should do upon starting the game is the tutor quest.
