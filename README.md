@@ -779,7 +779,7 @@ You can craft guardian armor and helms here, and melt down related gear from mon
 Blacksmithing allows enhancement of guardian armor, swords/daggers, and helmets.  
 You can also craft guardian boots here.
 
-Higher‑level crafts require **powdered steel**, purchasable from the blacksmith under Misc.
+Higher‑level crafts require **powdered steel**, purchasable from the blacksmith under Misc.<br>
 The scrap byproducts can be used for enhancing throwaway gear for additional experience.
 
 ---
