@@ -941,6 +941,8 @@ Allies can remove dye by shooting dyed teammates.
 Stepping on your own flag tile = death.  
 Stepping on the center tile without the enemy flag = death.
 
+The objective itself, is to capture the flag on the opposite corner, and **return to the middle with the flag.**
+
 No extra mechanics — it is a straightforward elixir war.
 
 ---
