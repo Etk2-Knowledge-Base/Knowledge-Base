@@ -1039,7 +1039,7 @@ Classic team PvP.
 
 ---
 
-### Mantis
+### Insects
 
 | Room                    | Level | Monsters                                  |
 | :---------------------- | :---- | :---------------------------------------- |
@@ -1076,15 +1076,21 @@ Classic team PvP.
 | Rabid Wolves  | 45–50    | Vicious Wolf / Enraged Wolf                          |
 | Alpha’s Peak  | 45–50    | Vicious Wolf / Enraged Wolf / Boss (hits very hard, can SC) |
 
----
 
+---
 ### Swamp Instance
 
 | Area            | Level | Monsters |
 | :-------------- | :---- | :------- |
 | Swamp Instance  | 50    | —        |
 
+---
+### Seonhwa Mines
 
+| Area            | Level | Monsters |
+| :-------------- | :---- | :------- |
+| All rooms except LR  | 55 | Cave Hermit, Cave Dweller, Cave Denizen, Cave Creature(First boss room, beware of SC & HF, high dmg) |
+| Last Room  | 60 | Cave Mutant (Second boss room, beware of SC & HF, high dmg, reportedly hits 10k on sc & sanc) |
 
 ---
 ## 4.5 Additional Resources
