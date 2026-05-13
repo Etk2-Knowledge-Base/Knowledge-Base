@@ -178,6 +178,8 @@ The first thing you should do upon starting the game is the **Tutor Quest**.
     * **Guardians:** Rage (instead of mana)
 * **Projectiles:** Have hitboxes; they do not hit instantly and are dodgeable.
 * **Inventory:** Limited to 30 slots.
+* **Tooltips:** Items/gear/Spells have extended info in tooltips, holding shift changes tooltip focus.
+
 
 </details>
 
