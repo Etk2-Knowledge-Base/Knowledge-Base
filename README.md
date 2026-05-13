@@ -173,13 +173,12 @@ The first thing you should do upon starting the game is the **Tutor Quest**.
 
 * **Group Menu:** Mouse over a member and press a spell to auto-target/cast. Includes buff/debuff icons.
 * **Who List:** Features custom leaderboards for Paintball, Power, and Wealth.
-* **Class Resources:** * **Monks:** Spirit (instead of mana)
-    * **Rangers:** Endurance (instead of mana)
-    * **Guardians:** Rage (instead of mana)
 * **Projectiles:** Have hitboxes; they do not hit instantly and are dodgeable.
 * **Inventory:** Limited to 30 slots.
 * **Tooltips:** Items/gear/Spells have extended info in tooltips, holding shift changes tooltip focus.
-
+* **Class Resources:** * **Monks:** Spirit (instead of mana)
+    * **Rangers:** Endurance (instead of mana)
+    * **Guardians:** Rage (instead of mana)
 
 </details>
 
