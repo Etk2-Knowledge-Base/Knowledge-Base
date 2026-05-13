@@ -1078,4 +1078,4 @@ If more depth is needed, I may contact Nova to pitch in and combine resources.
 
 **Last updated:** 5/12/2026  
 **Version:** ETK2 Alpha Knowledge Base v1.0  
-**Authors:** Adv / .\_a\_o_i\_.7
+**Current maintainer:** Adv / .\_a\_o_i\_.7
