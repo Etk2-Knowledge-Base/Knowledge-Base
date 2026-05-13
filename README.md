@@ -19,6 +19,7 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [2.4 Cleric](#24-cleric)
     * [2.5 Monk](#25-monk)
     * [2.6 Group Strategy](#26-group-strategy)
+    * [2.7 Specific Tier Lists](#27-specific-tier-lists)
 * [3.0 Crafting Systems](#30-crafting-systems)
     * [3.1 Mining & Smithing](#31-mining--smithing)
     * [3.2 Weaving & Tailor](#32-weaving--tailor)
@@ -176,7 +177,8 @@ The first thing you should do upon starting the game is the **Tutor Quest**.
 * **Projectiles:** Have hitboxes; they do not hit instantly and are dodgeable.
 * **Inventory:** Limited to 30 slots.
 * **Tooltips:** Items/gear/Spells have extended info in tooltips, holding shift changes tooltip focus.
-* **Class Resources:** * **Monks:** Spirit (instead of mana)
+* **Class Resources:** 
+    * **Monks:** Spirit (instead of mana)
     * **Rangers:** Endurance (instead of mana)
     * **Guardians:** Rage (instead of mana)
 
@@ -795,8 +797,62 @@ Most common “ragtag” team; standard and decent.
 This does **not** mean you should reject extra monks, tanks, or healers.  
 It simply means that, in theory, additional support roles do not increase group output.
 
+* **Note: Additional berserkers may require additional healers.**
+
+---
+
+## 2.7 Specific Tier Lists
+In this section we will cover individual unit tier lists.
+
+---
+
+### Solo DPS ranking
+| Class | Tier | Notes |
+| :--- | :--- | :--- |
+| **Ranger** | S+ | Easiest to achieve high dps with solo |
+| **Wizard** | A | Very difficult solo in of-level caves |
+| **Guardian** | B | Higher cost and lower performance |
+| **Cleric** | C | Low cost, not difficult, but not strong |
+| **Monk** | D | 2nd most expensive, very difficult, not strong |
+
+* **Note: A very skilled wizard can do similar or more dps compared to ranger.**
+
+---
+
+### Group DPS ranking for individual unit
+| Class | Tier | Notes |
+| :--- | :--- | :--- |
+| **Guardian** | S+ | Berserk, Decimate, Wind strike, Frenzy No.1 DPS |
+| **Wizard** | A+ | Easily 2nd strongest if using entire kit |
+| **Ranger** | A- | 3rd yet still quite strong with great scaling potential. |
+| **Monk** | C | Not very strong at all even with a cleric in duo situations. |
+| **Cleric** | D | Low dps, not dynamic enough for group play. |
+
+* **Note: Ranger with higher level weapons could flip the scale significantly.**
+
+---
+
+### Healer ranking
+| Class | Tier | Notes |
+| :--- | :--- | :--- |
+| **Cleric** | S+ | By far the most powerful and potent healer |
+| **Monk** | B+ | Not bad at all, but it can't do what cleric does |
 
 
+* **Note: For general duo situations monk is a very solid healer. Just don't expect to duo the hardest content.**
+
+---
+
+### Support ranking
+| Class | Tier | Notes |
+| :--- | :--- | :--- |
+| **Monk** | S+ | 20% damage buff for the entire group? Can't beat that |
+| **Cleric** | B | Buffs are overall minor, but can situationally be useful with other utility |
+| **Wizard** | D | Currently not useful for the average scenario |
+
+
+
+---
 ## 3.0 Crafting Systems
 This section elaborates every crafting system in full.
 
