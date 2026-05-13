@@ -1029,9 +1029,9 @@ Classic team PvP.
 | Room 19     | 60    | Radiant Skeleton      |
 | Room 20     | 65    | Vicious Skeleton      |
 
-Blacks rats in rooms 1-3 drop Purple rings, level 6 weapons, level 6 shields.
+*   **Blacks rats in rooms 1-3 drop Purple rings, level 6 weapons, level 6 shields.**
 
-Skeletons bosses in rooms 7 & 9 drop level 16 weapons.
+*   **Skeletons bosses in rooms 7 & 9 drop level 16 weapons.**
 
 
 ---
@@ -1044,24 +1044,24 @@ Skeletons bosses in rooms 7 & 9 drop level 16 weapons.
 | Rooms 3–4   | 20    | Black Fox / Red Fox / Sun Fox            |
 | Rooms 5–6   | 25    | Old Wolf / Black Wolf   (Ninetailed fox in LR)           |
 
-Boss in room 6 drops Sabre.
+  * **Boss in room 6 drops Sabre.**
 
 ---
 
 ### Insects
 
-| Room                    | Level | Monsters                                  |
-| :---------------------- | :---- | :---------------------------------------- |
-| Non‑boss rooms          | 25    | Centipede / Scorpion / Large Spider      |
-| Boss rooms              | 30    | Mantis / Scorpion   Tan & White bosses                     |
+| Room            | Level | Monsters                                   |
+| :-------------- | :---- | :----------------------------------------- |
+| Non‑boss rooms  | 25    | Centipede / Scorpion / Large Spider        |
+| Boss rooms      | 30    | Mantis / Scorpion (Tan & White bosses)     |
 
-Tan boss drops Electrathorn bow / Titanium Lance / Steelthorn / Bramble mitts
+**Boss Drops**
+- **Tan Boss** — Electrathorn Bow / Titanium Lance / Steelthorn / Bramble Mitts  
+- **White Boss** — Electrathorn Bow / Star‑staff / Electra / Bramble Mitts  
 
-White boss drops Electrathorn bow / Star-staff / Electra / Bramble mitts
+**Additional Notes**
+- 10% chance for **[Uncommon Weapons](ca://s?q=Explain_uncommon_weapon_drop_rates)**.
 
-10% chance uncommon weapons.
-
-I think?
 
 
 
@@ -1075,7 +1075,7 @@ I think?
 | Rooms 4–5         | 35    | Mature Pig / Mature Snake                 |
 | Room 6 (Boss)     | 40    | Mature Pig / Mature Snake / Warthog      |
 
-Warhog drops Warthog Tusk 0.5% chance
+*   **Warhog drops Warthog Tusk 0.5% chance.**
 
 
 ---
@@ -1089,7 +1089,7 @@ Warhog drops Warthog Tusk 0.5% chance
 | “Beware of LR” (Boss room)    | 40    | Rabid Bear / Large Bear / Wilderness Spirit (SC, HF)     |
 
 
-Wilderness Spirit drops Big Axe 0.5% chance.
+*   **Wilderness Spirit drops Big Axe 0.5% chance.**
 
 ---
 
@@ -1101,7 +1101,7 @@ Wilderness Spirit drops Big Axe 0.5% chance.
 | Rabid Wolves  | 45–50    | Vicious Wolf / Enraged Wolf                          |
 | Alpha’s Peak  | 45–50    | Vicious Wolf / Enraged Wolf / Boss (hits very hard, can SC) |
 
-Boss drops packleader helm.
+*   **Boss drops Packleader Helm.**
 
 ---
 ### Swamp Instance
@@ -1131,7 +1131,7 @@ Boss drops packleader helm.
 | All rooms except LR  | 55 | Cave Hermit, Cave Dweller, Cave Denizen, Cave Creature(First boss room, beware of SC & HF, high dmg) |
 | Last Room  | 60 | Cave Mutant (Second boss room, beware of SC & HF, high dmg, reportedly hits 10k on sc & sanc) |
 
-New bosses have unknown new rare drops.
+*   **New bosses have unknown new rare drops.**
 
 ---
 ## 4.5 Additional Resources
