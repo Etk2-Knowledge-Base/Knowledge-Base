@@ -302,6 +302,7 @@ Currently melee builds are not viable for PvE.
 | **Charged Shot II** | I42 D92 C25 | Stronger version of Charged Shot I. |
 | **Dragon's Wrath** | (S105 OR D105) + C42 | Strongest rage. |
 
+Rages require str+con **OR** dex+con, not both.
 </details>
 
 ---
@@ -335,6 +336,10 @@ The upside: you can build huge HP pools and become very hard to kill.
 You *can* kill low‑HP players if they stand still long enough, but it’s unreliable.
 
 This will almost certainly change soon, and current PvP balance should not be taken seriously for long‑term planning.
+
+Melee Related Spells: **Eviscerate, Dash, Melee Specialization, Fan of Knives**
+
+Bow Related Spells: **Volley, Charged Shot, Piercing Shot, Shatter arrow**
 
 
 ## 2.3 Wizard
