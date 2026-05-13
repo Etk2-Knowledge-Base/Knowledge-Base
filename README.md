@@ -1110,7 +1110,18 @@ Boss drops packleader helm.
 | :-------------- | :---- | :------- |
 | Swamp Instance  | 50    | —        |
 
-TBC
+**Mechanics & Threats**
+- Snakes apply **[Armor Curse (SC)](ca://s?q=Explain_Armor_Curse_SC)**, use **[Doze](ca://s?q=Explain_Doze_effect)**, and have a ranged attack.
+- This cave generally requires at least **[a healer](ca://s?q=Best_healer_for_Swamp_Instance)** and **[a tank](ca://s?q=Best_tank_for_Swamp_Instance)**.
+- Ideally run with a **full team of 5** for safety and speed.
+
+**Loot**
+- Any monster can drop **Swamp Shields**, **Swamp Helms**, and **Swamp Rings**.
+- The boss can drop:
+  - **Swamp Staff**
+  - **Swamp Mitts**
+  - **Swamp Sword**
+  - **Swamp Bow**
 
 ---
 ### Seonhwa Mines
