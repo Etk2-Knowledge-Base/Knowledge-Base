@@ -495,35 +495,53 @@ Clerics use staves, daggers, and swords. They are the premier healing class, cap
 ---
 
 ### 2.4.2 Building Cleric
-At low levels, stock wine from the inn immediately.  
-Invoke is not fully viable until the 20s/30s.
 
-Start with a **Holy Fire** build (scales with Wis).  
-Once you get **Imbue I**, use it alongside Holy Fire — it increases DPS but reduces healing.
+At low levels, stock **[wine](ca://s?q=Why_do_clerics_use_wine)** from the inn immediately.  
+**Invoke** is not fully viable until the mid **20s–30s**.
 
-Late 20s:  
-You can get **Consecrate I**, replacing Holy Fire.
+**Early Game (1–20)**  
+- Start with a **Holy Fire** build (scales with Wis).  
+- Once you obtain **Imbue I**, pair it with Holy Fire — it increases DPS but reduces healing.
 
-30s:  
-Focus on HP to survive.
+**Late 20s**  
+- Swap to **Consecrate I**, which replaces Holy Fire as your main damage tool.
 
-40s:  
-You can obtain **Consecrate II** and **Holy Flame**.  
-Survivability drops slightly, but DPS increases significantly.  
-At this point you can group with players in the 70s, making healer builds reasonable.
+**30s**  
+- Prioritize **HP** to survive incoming damage.
 
-DPS build (40s) scales with Str but falls off badly in the 50s.
+**40s**  
+- Gain access to **Consecrate II** and **Holy Flame**.  
+- Survivability dips slightly, but DPS increases significantly.  
+- At this point, you can comfortably group with players in the **70s**, making healer builds fully viable.
 
-Healer build is straightforward:  
-Invoke → Sanctuary → Purify → Highest heal available → Everything else.
+**DPS Path (40s)**  
+- Scales with **Str**, but falls off sharply in the **50s**.  
+- Not recommended past mid‑game.
 
-General rule of thumb:  
-“Can I cast 1 heal every 2 seconds for my entire Invoke aether?”  
-If yes, your mana pool is acceptable.
+**Healer Path**  
+A simple and effective rotation:  
+**Invoke → Sanctuary → Purify → Highest heal available → Everything else**
 
-Notable utility:  
-Light Shield, Bless, Death Ward, Saving Grace, Bind, Silence, Dispel, Inspire.  
-These are not mandatory but very helpful.
+**Mana Rule of Thumb**  
+“Can I cast **one heal every two seconds** for the entire duration of my **Invoke aethers**?”  
+If yes, your mana pool is sufficient.
+
+**Notable Utility**  
+- **[Light Shield](ca://s?q=Explain_Light_Shield)**  
+- **[Bless](ca://s?q=Explain_Bless_buff)**  
+- **[Death Ward](ca://s?q=Explain_Death_Ward)**  
+- **[Saving Grace](ca://s?q=Explain_Saving_Grace)**  
+- **[Bind](ca://s?q=Explain_Bind_spell)**  
+- **[Silence](ca://s?q=Explain_Silence_spell)**  
+- **[Dispel](ca://s?q=Explain_Dispel_spell)**  
+- **[Inspire](ca://s?q=Explain_Inspire_buff)**  
+
+These are not mandatory but extremely helpful in group play.
+
+**High‑Level Healing Tip**  
+Use **Divine Mending** as your primary heal and **Radiant** as your restore to reduce mana waste.  
+Radiant is more efficient **if** you are consistently healing its full value.
+
 
 ---
 
@@ -1033,6 +1051,7 @@ Classic team PvP.
 
 *   **Skeletons bosses in rooms 7 & 9 drop level 16 weapons.**
 
+*   **Note: There is a shortcut to room 12 in the Northern Wilderness.**
 
 ---
 
