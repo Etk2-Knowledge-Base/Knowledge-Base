@@ -254,12 +254,16 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 * **Stances:** Defensive is required for soloing of-level content, tanking instances, and bosses. Offensive offers the highest DPS but is only recommended for soloing content you have out-leveled by 30+ levels.
 * **Efficiency:** While high DPS, guardians are among the worst DPS in the game without a healer. They offer no specific benefit over other classes for solo play.
 
-
+---
 ## 2.2 Ranger
-Rangers use bows or daggers.  
-They depend on high AoE damage, high mobility, and smart positioning to perform well.  
-Jack-of-all trades with a slight skill requirement. Starts out slow, grows tremendously.  
-Currently melee builds are not viable for PvE.
+Rangers use bows or daggers and rely on high AoE damage, mobility, and smart positioning to perform well.
+
+* **Role:** Flexible damage dealer with strong clearing potential.
+* **Solo Performance:** One of the strongest solo classes once established; early game is slower.
+* **Maintenance:** Low repair costs and high uptime make them efficient for long sessions.
+* **Scaling:** Damage scales heavily with Dex, weapon damage, and proper positioning.
+* **Notes:** Melee builds are currently not viable for PvE.
+
 
 ---
 
@@ -341,13 +345,17 @@ Melee Related Spells: **Eviscerate, Dash, Melee Specialization, Fan of Knives**
 
 Bow Related Spells: **Volley, Charged Shot, Piercing Shot, Shatter arrow**
 
-
+---
 ## 2.3 Wizard
-Wizards use staff or sword.  
-They have the largest pool of AoEs of all classes.  
-Equally, the squishiest class by far.  
-Wizard is not weak at all, but it does have the highest skill cap of all classes to perform well on.  
-Elementalist(classic wizard) build is currently solid, enchanter(Melee/battlemage) build is lacking severely and not worth playing at higher levels.
+Wizards use staves or swords and possess the largest pool of AoE abilities of any class.  
+They are also the squishiest class by a wide margin and require strong awareness to play well.
+
+* **Role:** High‑output AoE damage dealer with strong room‑clearing potential.
+* **Solo Performance:** Powerful but demanding; extremely effective in skilled hands.
+* **Maintenance:** Low repair costs, but high positional risk due to low defenses.
+* **Scaling:** Scales heavily with Int, spell power, and proper spell sequencing.
+* **Notes:** Elementalist (classic caster) is currently strong; Enchanter (melee/battlemage) falls off hard at higher levels.
+
 
 ---
 
@@ -433,11 +441,15 @@ This is a PvP‑oriented approach focused on killing clerics and blocking the ba
 
 
 
+---
 ## 2.4 Cleric
-Clerics use staff, daggers, and swords.  
-They are the premium healer, requiring very little skill to perform at the highest healing potential.  
-Currently as DPS they are so weak that they are hardly worth considering DPS‑viable anymore.  
-Regardless, DPS is the way until about level 50 or so if you don't have an active group.
+Clerics use staves, daggers, and swords. They are the premier healing class, capable of reaching top‑tier healing output with relatively low mechanical difficulty.
+
+* **Role:** Primary healer with unmatched sustain and group support.
+* **Solo Performance:** DPS is currently too weak to be considered viable long‑term, but leveling as DPS is still recommended until around level 50 if you lack an active group.
+* **Maintenance:** Low repair costs and simple rotations make them easy to maintain.
+* **Scaling:** Healing scales strongly with Int, spell power, and supportive gear.
+* **Notes:** Endgame DPS builds are not competitive in the current balance state.
 
 ---
 
@@ -527,14 +539,16 @@ Cleric is very cookie‑cutter, so here are the main builds:
    Heals, buffs, utility, Holy Inferno/Holy Fire, Dispel.<br>
    Also focuses on extra HP (more Con).
 
-
+---
 ## 2.5 Monk
-Monks use gloves to fight with their fists.  
-They are primarily support and healer.  
-What they add to a complete group is unparalleled by any other source of support.  
-Their healing is sufficient for the majority of content in almost all cases.  
-Currently they are the 4th weakest damage dealer in the game.  
-So besides early levels… consider fire useless, at least for the time being.
+Monks use gloves to fight with their fists. They function primarily as support and healers, offering group benefits unmatched by any other class.
+
+* **Role:** Exceptional support with strong healing and powerful group utility.
+* **Solo Performance:** Healing is sufficient for most content, but damage output is currently the 4th weakest overall.
+* **Maintenance:** Low upkeep and simple rotations, with most value coming from buffs and support tools.
+* **Scaling:** Benefits from Wis, supportive gear, and utility‑focused stat choices.
+* **Notes:** Fire (DPS) builds fall off quickly; outside early levels, consider them non‑viable for now.
+
 
 ---
 
@@ -638,9 +652,12 @@ This section defines how classes function with other classes in different scenar
 ---
 
 ## 2.6.1 Duo
-For duo, synergy and scalability matter most.  
-Strategy is primarily about positioning and knowing your class spells.  
-After synergy is established, notes are provided for specific caves.
+For duo play, synergy and scalability matter most. Success comes from understanding how your classes interact and how their strengths complement each other.
+
+* **Core Focus:** Positioning, coordination, and proper use of class abilities.
+* **Skill Requirement:** Knowing your spells and how they pair with your partner’s toolkit.
+* **Progression:** Once synergy is established, specific notes are provided for each cave to guide optimal routing and strategy.
+
 
 ### Strong Synergy
 
