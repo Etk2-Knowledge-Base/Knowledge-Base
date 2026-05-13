@@ -780,6 +780,7 @@ Blacksmithing allows enhancement of guardian armor, swords/daggers, and helmets.
 You can also craft guardian boots here.
 
 Higher‑level crafts require **powdered steel**, purchasable from the blacksmith under Misc.
+The scrap byproducts can be used for enhancing throwaway gear for additional experience.
 
 ---
 
@@ -805,6 +806,8 @@ It also allows crafting of:
 You can enhance all of these items and monk gloves (weapon).  
 Higher‑level crafts require **radiant thread**, purchasable from the tailor under Misc.
 
+Again here, the scraps received from weaving can be used to enhance throwaway gear for additional experience.
+
 ---
 
 ## 3.3 Gemcutting & Jewelcrafting
@@ -821,6 +824,10 @@ To begin gemcutting, you must obtain gems.
 | **T3** | Rubies | Wolf Cave, Crypt Room 20 |
 | **T3** | Sapphires | Swamp |
 | **T4** | Quartz | Swamp |
+
+
+Cracked gems can be used to enhance throwaway jewelery for additional experience.
+
 ---
 
 ## 3.4 Woodcutting / Carpentry (TBD/A)
