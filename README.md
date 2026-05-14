@@ -31,7 +31,8 @@ It covers classes, crafting, minigames, group strategy, and progression.<br>
     * [4.2 FAQ](#42-faq)
     * [4.3 Minigames](#43-minigames)
     * [4.4 Cave Chart](#44-cave-chart)
-    * [4.5 Additional Resources](#45-additional-resources)
+    * [4.5 Gear Lists](#45-gear-lists)
+    * [4.6 Additional Resources](#46-additional-resources)
 ---
 
 ## 1.0 Introduction to the ETK2 Alpha Test
@@ -1171,9 +1172,9 @@ Classic team PvP.
 
 | Area          | Level    | Monsters                                              |
 | :------------ | :------- | :--------------------------------------------------- |
-| Smooth Wolves | 40–45    | Dire Wolf / Blood Wolf                               |
-| Rabid Wolves  | 45–50    | Vicious Wolf / Enraged Wolf                          |
-| Alpha’s Peak  | 45–50    | Vicious Wolf / Enraged Wolf / Boss (hits very hard, can SC) |
+| Smooth Wolves | 45    | Dire Wolf / Blood Wolf                               |
+| Rabid Wolves  | 50    | Vicious Wolf / Enraged Wolf                          |
+| Alpha’s Peak  | 50   | Vicious Wolf / Enraged Wolf / Boss (hits very hard, can SC) |
 
 *   **Boss drops Packleader Helm.**
 
@@ -1205,10 +1206,68 @@ Classic team PvP.
 | All rooms except LR  | 55 | Cave Hermit, Cave Dweller, Cave Denizen, Cave Creature(First boss room, beware of SC & HF, high dmg) |
 | Last Room  | 60 | Cave Mutant (Second boss room, beware of SC & HF, high dmg, reportedly hits 10k on sc & sanc) |
 
-*   **New bosses have unknown new rare drops.**
+*   **The yellow boss drops Spiked Club, a lvl 65 weapon with 200k dura, and 100+min 200+max.**
+*   **The red boss drops are still unknown.**
 
 ---
-## 4.5 Additional Resources
+
+## 4.5 Gear Lists
+
+* **Note will move this section when it is finished.**
+
+---
+
+### Weapons 
+| Class | L6 | L16 | L29 | L37 | L42 | L52 | L65 |
+| :---- | :-- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Cleric](ca://s?q=Cleric_gear_details)** | Gnarled Branch | Ebony Branch | Gnarled Staff | Star-Staff / Titanium Lance| Eternal Twig | Swamp Staff | 65 Staff |
+| **[Guardian](ca://s?q=Guardian_gear_details)** | Broadsword | Longsword | Honor Sword | Electra / Steelthorn | Steel Scimitar | Swamp Sword | Spiked Club |
+| **[Monk](ca://s?q=Monk_gear_details)** | Leather Gloves | Reinforced Gloves | Forest Gloves | Bramble Mitts | Runic Gloves | Swamp Gloves | L65 Gloves |
+| **[Ranger](ca://s?q=Ranger_gear_details)** | Simple Bow | Sturdy Bow | Forest Bow | Electrathorn | Glimmer Bow | Swamp Bow | L65 Bow |
+| **[Wizard](ca://s?q=Wizard_gear_details)** | Wooden Staff | Acolyte Staff | Ruby Staff | Star-Staff / Titanium Lance | Sapphire Staff | Swamp Staff | L65 Staff |
+
+  * **Note: All weapons have randomized min/max, DAM, hit, and stat rolls.**<br>
+            **They do have certain ranges, but I can't list all of those yet.**
+
+
+---
+
+### Armor
+
+| Level | L6 | L16 | L26 | L36 | L46 | L56 | L66 | L76 | L86 |
+| :---- | :-- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Armor Tier](ca://s?q=Armor_tier_explanations)** | Peasant Armors | Growing Armors | Sky Armors | New Light Armors | Dawn Armors | Sun Armors | Moon Armors | Phoenix Armors | Dragon Armors |
+
+   * **Note: Crafted armor is better than armor from the npc.**
+
+---
+
+
+### Shield
+
+| Level | L6 | L29 | L26 |
+| :---- | :-- | :--- | :--- | :--- |
+| **[Shield Tier](ca://s?q=Shield_tier_explanations)** | Wooden Shield | Stone Shield | Swamp Shield |
+
+   * **Note: All the shields in the game currently.**
+
+---
+
+### Boots
+
+| Boot Type | L15 | L35 | L55 |
+| :-------- | :--- | :--- | :--- |
+| **[Cloth](ca://s?q=Cloth_boots_details)** (Cleric / Wizard) | Cloth Boots | Woven Boots | Silk Boots |
+| **[Light](ca://s?q=Light_boots_details)** (Ranger / Monk) | Leather Boots | Rugged Boots | Tracker Boots |
+| **[Heavy](ca://s?q=Heavy_boots_details)** (Guardian) | Initiate Boots | Steel Boots | Blue Steel Boots |
+
+   * **Note: Enhancement of level 55 boots increases stats, including resource rolls.**
+
+
+
+
+---
+## 4.6 Additional Resources
 
 **Spell requirement calculators by Nova:**  
 Main site — https://etkskillcalc.com/  
