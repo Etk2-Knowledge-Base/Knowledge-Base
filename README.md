@@ -258,6 +258,8 @@ Guardians use swords and are currently the highest group-oriented DPS in the gam
 * **Stances:** Defensive is required for soloing of-level content, tanking instances, and bosses. Offensive offers the highest DPS but is only recommended for soloing content you have out-leveled by 30+ levels.
 * **Efficiency:** While high DPS, guardians are among the worst DPS in the game without a healer. They offer no specific benefit over other classes for solo play.
 
+   *  **Note: Guardians can interweave vengeance by casting it, taking damage, and changing to offensive stance.**
+
 ---
 ## 2.2 Ranger
 Rangers use bows or daggers and rely on high AoE damage, mobility, and smart positioning to perform well.
