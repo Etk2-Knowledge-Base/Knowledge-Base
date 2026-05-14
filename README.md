@@ -1240,16 +1240,7 @@ Classic team PvP.
 
    * **Note: Crafted armor is better than armor from the npc.**
 
----
 
-
-### Shield
-
-| Level | L6 | L29 | L26 |
-| :---- | :-- | :--- | :--- | :--- |
-| **[Shield Tier](ca://s?q=Shield_tier_explanations)** | Wooden Shield | Stone Shield | Swamp Shield |
-
-   * **Note: All the shields in the game currently.**
 
 ---
 
