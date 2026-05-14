@@ -3,6 +3,8 @@ A nearly comprehensive compendium pertaining to ETK2 Alpha.<br>
 This is the complete, community‑maintained knowledge base for ETK2 Alpha.<br>
 It covers classes, crafting, minigames, group strategy, and progression.<br>
 
+This will not be updated anymore, feel free to take it and do whatever with it.
+
 # ETK2 Alpha Test Knowledge Base
 
 ## Table of Contents
@@ -1324,10 +1326,10 @@ Alternative — https://etk2skillcalc.netlify.app/
 **TNL calculator by Adv:**  
 https://etk2tnlcalc.netlify.app/
 
-If more depth is needed, I may contact Nova to pitch in and combine resources.
+
 ---
 ---
 
 **Last updated:** 5/12/2026  
 **Version:** ETK2 Alpha Knowledge Base v1.0  
-**Current maintainer:** Adv / .\_a\_o_i\_.7
+**Original Author** Adv / .\_a\_o_i\_.7
