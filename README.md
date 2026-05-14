@@ -1224,11 +1224,11 @@ Classic team PvP.
 
 **Loot**
 - Any monster can drop
-  - **W/E New Sword Is**
-  - **Mountain Gloves**
-  - **Blackflame staff**
-  - **Mountain Bow**
-  - **Manablade**
+  - **Earthbreaker**     -New Guardian weapon
+  - **Mountain Gloves**  -New Monk weapon
+  - **Blackflame staff** -New Cleric/Wizard weapon
+  - **Mountain Bow**     -New Ranger weapon
+  - **Manablade**        -New Cleric/Wizard fighter weapon
 
   **Boss has a new ultra rare drop, still unknown.**
 
@@ -1244,7 +1244,7 @@ Classic team PvP.
 | Class | L6 | L16 | L29 | L37 | L42 | L52 | L65 | L70 |
 | :---- | :-- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Cleric](ca://s?q=Cleric_gear_details)** | Gnarled Branch | Ebony Branch | Gnarled Staff | Star-Staff / Titanium Lance| Eternal Twig | Swamp Staff | 65 Staff | Blackflame Staff / Manablade |
-| **[Guardian](ca://s?q=Guardian_gear_details)** | Broadsword | Longsword | Honor Sword | Electra / Steelthorn | Steel Scimitar | Swamp Sword | Spiked Club | L70 Sword |
+| **[Guardian](ca://s?q=Guardian_gear_details)** | Broadsword | Longsword | Honor Sword | Electra / Steelthorn | Steel Scimitar | Swamp Sword | Spiked Club | Earthbreaker |
 | **[Monk](ca://s?q=Monk_gear_details)** | Leather Gloves | Reinforced Gloves | Forest Gloves | Bramble Mitts | Runic Gloves | Swamp Gloves | L65 Gloves | Mountain Gloves |
 | **[Ranger](ca://s?q=Ranger_gear_details)** | Simple Bow | Sturdy Bow | Forest Bow | Electrathorn | Glimmer Bow | Swamp Bow | L65 Bow | Mountain Bow |
 | **[Wizard](ca://s?q=Wizard_gear_details)** | Wooden Staff | Acolyte Staff | Ruby Staff | Star-Staff / Titanium Lance | Sapphire Staff | Swamp Staff | L65 Staff | BlackFlame Staff |
