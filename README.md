@@ -1218,7 +1218,7 @@ Classic team PvP.
 
 | Area            | Level | Monsters |
 | :-------------- | :---- | :------- |
-| First 3 rooms going south at least | 60?65? | Some Thick Mobs|
+| First 3 rooms going south at least | 65 | Some Thick Mobs|
 | Rooms further south  | 70 | Even more thick mobs |
 
 * **Note: This cave is dangerous, boss is very dangerous.**
