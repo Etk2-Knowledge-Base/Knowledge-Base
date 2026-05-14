@@ -1213,6 +1213,27 @@ Classic team PvP.
 
 ---
 
+### Lava Caverns
+
+| Area            | Level | Monsters |
+| :-------------- | :---- | :------- |
+| First 3 rooms going south at least | 60?65? | Some Thick Mobs|
+| Rooms further south  | 70 | Even more thick mobs |
+
+* **Note: This cave is dangerous, boss is very dangerous.**
+
+**Loot**
+- Any monster can drop
+  - **W/E New Sword Is**
+  - **Mountain Gloves**
+  - **Blackflame staff**
+  - **Mountain Bow**
+  - **Manablade**
+
+  **Boss has a new ultra rare drop, still unknown.**
+
+---
+
 ## 4.5 Gear Lists
 
 * **Note will move this section when it is finished.**
@@ -1220,13 +1241,13 @@ Classic team PvP.
 ---
 
 ### Weapons 
-| Class | L6 | L16 | L29 | L37 | L42 | L52 | L65 |
-| :---- | :-- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Cleric](ca://s?q=Cleric_gear_details)** | Gnarled Branch | Ebony Branch | Gnarled Staff | Star-Staff / Titanium Lance| Eternal Twig | Swamp Staff | 65 Staff |
-| **[Guardian](ca://s?q=Guardian_gear_details)** | Broadsword | Longsword | Honor Sword | Electra / Steelthorn | Steel Scimitar | Swamp Sword | Spiked Club |
-| **[Monk](ca://s?q=Monk_gear_details)** | Leather Gloves | Reinforced Gloves | Forest Gloves | Bramble Mitts | Runic Gloves | Swamp Gloves | L65 Gloves |
-| **[Ranger](ca://s?q=Ranger_gear_details)** | Simple Bow | Sturdy Bow | Forest Bow | Electrathorn | Glimmer Bow | Swamp Bow | L65 Bow |
-| **[Wizard](ca://s?q=Wizard_gear_details)** | Wooden Staff | Acolyte Staff | Ruby Staff | Star-Staff / Titanium Lance | Sapphire Staff | Swamp Staff | L65 Staff |
+| Class | L6 | L16 | L29 | L37 | L42 | L52 | L65 | L70 |
+| :---- | :-- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Cleric](ca://s?q=Cleric_gear_details)** | Gnarled Branch | Ebony Branch | Gnarled Staff | Star-Staff / Titanium Lance| Eternal Twig | Swamp Staff | 65 Staff | Blackflame Staff / Manablade |
+| **[Guardian](ca://s?q=Guardian_gear_details)** | Broadsword | Longsword | Honor Sword | Electra / Steelthorn | Steel Scimitar | Swamp Sword | Spiked Club | L70 Sword |
+| **[Monk](ca://s?q=Monk_gear_details)** | Leather Gloves | Reinforced Gloves | Forest Gloves | Bramble Mitts | Runic Gloves | Swamp Gloves | L65 Gloves | Mountain Gloves |
+| **[Ranger](ca://s?q=Ranger_gear_details)** | Simple Bow | Sturdy Bow | Forest Bow | Electrathorn | Glimmer Bow | Swamp Bow | L65 Bow | Mountain Bow |
+| **[Wizard](ca://s?q=Wizard_gear_details)** | Wooden Staff | Acolyte Staff | Ruby Staff | Star-Staff / Titanium Lance | Sapphire Staff | Swamp Staff | L65 Staff | BlackFlame Staff |
 
   * **Note: All weapons have randomized min/max, DAM, hit, and stat rolls.**<br>
             **They do have certain ranges, but I can't list all of those yet.**
@@ -1238,13 +1259,24 @@ Classic team PvP.
 
 | Level | L6 | L16 | L26 | L36 | L46 | L56 | L66 | L76 | L86 |
 | :---- | :-- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Armor Tier](ca://s?q=Armor_tier_explanations)** | Peasant Armors | Growing Armors | Sky Armors | New Light Armors | Dawn Armors | Sun Armors | Moon Armors | Phoenix Armors | Dragon Armors |
+| **[Armor Tier](ca://s?q=Armor_tier_explanations)** | Peasant Armors | Growing Armors | New Light Armors | Sky Armors | Dawn Armors | Moon Armors | Sun Armors | Phoenix Armors | Dragon Armors |
 
    * **Note: Crafted armor is better than armor from the npc.**
 
+---
 
+### Helm
+
+| Level | L6 | L16 | L26 | L36 | L46 | L50 | L56 | L66 | L76 | L86 |
+| :---- | :-- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Helm Tier](ca://s?q=Helm_tier_explanations)** | Novice Helm | Growth Helm / Ancient Helm | New Light Helm | Sky Helm | Dawn Helm | Swamp Helm / Packleader Helm | Moon Helm  | Sun Helm | Phoenix Helm | Dragon Helm |
+
+   * **Note: Lv 50 helms from mobs, others bought from blacksmith or crafted.**
 
 ---
+
+
+
 
 ### Boots
 
@@ -1256,10 +1288,32 @@ Classic team PvP.
 
    * **Note: Enhancement of level 55 boots increases stats, including resource rolls.**
 
+---
 
+### Jewelery
+| Level | L6 | L16 | L35 | L49 | L52 | L56 | L65 |
+| :---- | :-- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Accessory](ca://s?q=Accessory_details)** | Purple Ring / Beginner Ring | Blue Ring / Jade Ring / Jade Pendant | Emerald Ring / Emerald Pendant | Bold Emerald Pendant |  Swamp Band | Ruby Ring / Sapphire Ring| Ruby Pendant / Sapphire Pendant |
 
+ * **Note: Purple rings, Blue rings, and Swamp rings can be obtained from monster.**
+   **The rest are obtained via jewelcrafting.**
+
+   
 
 ---
+
+
+### Shield
+
+| Level | L6 | L29 | L52 |
+| :---- | :-- | :--- | :--- |
+| **[Shield Tier](ca://s?q=Shield_tier_explanations)** | Wooden Shield | Stone Shield | Swamphide Shield |
+
+Yep, That's it.
+
+---
+
+
 ## 4.6 Additional Resources
 
 **Spell requirement calculators by Nova:**  
